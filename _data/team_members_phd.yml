@@ -1,0 +1,19 @@
+- name: 赵海源
+  photo: zhaohaiyuan.jpeg
+  info: 数据纠偏
+  email: haiyuanzhao@ruc.edu.cn
+
+- name: 戴孙浩
+  photo: daisunhao.jpeg
+  info: 推荐系统，因果推断
+  email: sunhaodai@ruc.edu.cn
+
+
+
+
+- name: "这也可以是你！"
+  en_name: "This could be you !"
+  photo: rock.jpg
+  info: 点击<a href="../contact">“联系我们”</a>获取更多信息
+  en_info: See <a href="../contact">openings</a> for more info
+  placeholder: 1
