@@ -2,7 +2,7 @@
 
 This is the website of our academic research group at Renmin University of China.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch.
+This [website](https://ruc-iir-lab.github.io/) is powered by Jekyll and some Bootstrap, Bootwatch.
 
 
 
