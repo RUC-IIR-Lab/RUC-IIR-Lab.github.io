@@ -3,6 +3,11 @@
   info: 数据纠偏
   email: haiyuanzhao@ruc.edu.cn
 
+- name: 韩雪冉
+  photo: hanxueran.jpeg
+  info: 推荐系统
+  email: hanxueran@ruc.edu.cn
+
 - name: 戴孙浩
   photo: daisunhao.jpeg
   info: 推荐系统，因果推断
@@ -12,11 +17,6 @@
   photo: caozelin.jpeg
   info: 对话推荐
   email: zelincao@ruc.edu.cn
-
-- name: 韩雪冉
-  photo: hanxueran.jpeg
-  info: 推荐系统
-  email: hanxueran@ruc.edu.cn
 
 - name: 孙忠祥
   photo: sunzhongxiang.jpeg
