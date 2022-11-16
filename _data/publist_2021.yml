@@ -2,5 +2,17 @@
 - title: "Regret Bounds for Online Kernel Selection in Continuous Kernel Space"
   authors:
     Xiao Zhang, Shizhong Liao, Jun Xu, Ji-Rong Wen
-  book: Proceedings of the AAAI Conference on Artificial Intelligence 2021
+  book: AAAI 2021
   url: https://ojs.aaai.org/index.php/AAAI/article/view/17305/17112
+
+- title: "Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback"
+  authors:
+    Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen
+  book: SIGIR 2021
+  url: https://gsai.ruc.edu.cn/uploads/20210728/258dff20dc157be8fd2a68ef6f2c6f01.pdf
+
+- title: "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation"
+  authors:
+    Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen
+  book: WSDM 2021
+  url: https://gsai.ruc.edu.cn/uploads/20210701/c0180749d1e7c77cf5c3b3c6c0fd011f.pdf

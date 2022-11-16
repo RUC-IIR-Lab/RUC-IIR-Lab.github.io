@@ -1,10 +1,46 @@
+- title: "Counteracting user attention bias in music streaming recommendation via reward modification"
+  authors: Xiao Zhang*, Sunhao Dai*, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen
+  book: KDD 2022
+  url:  https://dl.acm.org/doi/pdf/10.1145/3534678.3539393
+
+
 - title: "Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale Extraction"
   authors: Weijie Yu, Zhongxiang Sun, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen
-  book: Proceedings of the 45th International ACM SIGIR Conference 2022
-  url: https://arxiv.org/pdf/2207.04182.pdf
+  book: SIGIR 2022 
+  url: https://dl.acm.org/doi/abs/10.1145/3477495.3531974
 
 - title: "A Model-Agnostic Causal Learning Framework for Recommendation using Search Data"
   authors: Zihua Si, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
-  book: Proceedings of the ACM Web Conference 2022
+  book: WWW 2022
   url: https://arxiv.org/pdf/2202.04514.pdf
+
+- title: Distribution Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains
+  authors: Weijie Yu; Chen Xu; Jun Xu; Liang Pang; Ji-Rong Wen
+  book: TASLP vol.30
+  url: https://ieeexplore.ieee.org/abstract/document/9698977
+
+- title: Distribution Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains
+  authors: Weijie Yu; Chen Xu; Jun Xu; Liang Pang; Ji-Rong Wen
+  book: TASLP vol.30
+  url: https://ieeexplore.ieee.org/abstract/document/9698977
+
+- title: Optimal Partial Transport Based Sentence Selection for Long-form Document Matching
+  authors: Weijie Yu, Liang Pang, Jun Xu, Bing Su, Zhenhua Dong, Ji-Rong Wen
+  book: COLING 2022
+  url: https://aclanthology.org/2022.coling-1.208.pdf
+
+- title: Semantic Sentence Matching via Interacting Syntax Graphs
+  authors: Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong Wen
+  book: COLING 2022
+  url: https://aclanthology.org/2022.coling-1.78.pdf
+
+- title: Dually Enhanced Propensity Score Estimation in Sequential Recommendation
+  authors: Chen Xu, Jun Xu, Xu Chen, Zhenghua Dong, Ji-Rong Wen
+  book: CIKM 2022
+  url: https://gsai.ruc.edu.cn/uploads/20220903/bee817cd0a82cc1b93a55317f7edf979.pdf
+
+- title: A Tag-Based Post-Hoc Framework for Explainable Conversational Recommendation
+  authors: Kerui Xu, Jun Xu, Sheng Gao, Si Li, Jun Guo, Ji-Rong Wen
+  book: ICTIR 2022
+  url: https://dl.acm.org/doi/abs/10.1145/3539813.3545120
 
