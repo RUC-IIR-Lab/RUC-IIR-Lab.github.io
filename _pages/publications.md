@@ -6,9 +6,10 @@ sitemap: false
 permalink: /publications/
 ---
 
+下面分别展示了已经发表的[论文](#论文列表)、[专著](#专著)和[学术报告](#学术报告)。
 
 <!-- # Publications -->
-# 论文列表
+# 论文
 
 ### 2022年:
 
@@ -49,3 +50,25 @@ permalink: /publications/
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
 
+# 专著
+
+"**Deep Learning for Matching in Search and Recommendation**" by Jun Xu, Xiangnan He and Hang Li, Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
+<br>
+<a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/DMRS.jpg" width="200" class="panel_cover_photo" /></a>
+<br>
+
+"**Semantic Matching in Search**" by Hang Li and Jun Xu, Now Publishers, 2014. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/SemanticMatchingInSearch_2014.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
+<br>
+<a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035"><img src="{{ site.url }}{{ site.baseurl }}/images/SMSearch.jpg" width="200" class="panel_cover_photo" /></a>
+<br>
+
+# 学术报告
+
+{% for publi in site.data.talks %}
+
+  "{{ publi.title }}" <br />
+  <em> {{ publi.authors}} </em>, 
+  {{ publi.content }}. 
+  {% if publi.links != 'placeholder' %} ({{publi.links}}).{% endif %}
+
+{% endfor %}

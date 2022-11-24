@@ -1,0 +1,85 @@
+- title: Deep Learning for Matching in Search and Recommendation 
+  authors: Jun Xu, Xiangnan He, Hang Li
+  content: tutorial at <strong>SIGIR 2018</strong>
+  links: <a href="../downloads/SIGIR2018-DLMatch-Slides.pdf">slides</a>, <a href="http://sigir.org/sigir2018/program/tutorials/">link</a>
+
+- title: Deep Learning for Matching in Search and Recommendation
+  authors: Jun Xu, Xiangnan He, Hang Li
+  content: tutorial at <strong>WWW 2018</strong>
+  links: <a href="../downloads/WWW2018-tutorial-DLMatch.pdf">slides</a>, <a href="https://www2018.thewebconf.org/program/tutorials-track/tutorial-191/">link</a>
+
+- title: Deep Learning for Semantic Matching in Search
+  authors: Jun Xu
+  content: tutorial at the <strong>NLPCC 2017 & ADL 86, 2017</strong>
+  links: <a href="../downloads/NLPCC-ADL-Tutorial_DeepSM.pdf">slides</a>
+
+- title: 'EasyML: Ease the Process of Machine Learning with Data Flow'
+  authors: Jun Xu
+  content: invited talk at the workshop on <strong>AI Systems at Symposium on Operating Systems Principles (SOSP)</strong>
+  links: <a href="../downloads/SOSP2017-AISys-EasyML.pdf">slides</a>,  <a href="http://learningsys.org/sosp17/schedule.html">link</a>
+
+- title: Deep Approaches to Semantic Text Matching
+  authors: Jun Xu
+  content: keynote speech at <strong>the First SIGIR Workshop on Knowledge Graphs and Semantics for Text Retrieval and Analysis, 2017</strong>
+  links: <a href="../downloads/KG4IR2017-keynote.pdf">slides</a>
+
+- title: Reinforcement Learning to Rank with Markov Decision Process
+  authors: Jun Xu
+  content: invited talk at <strong>CCF@U (Dalian and Wuhang), 2017</strong>
+  links: <a href="../downloads/CCF@U_RL4IR.pdf">slides</a>
+
+- title: Deep Approaches to Semantic Matching for Text
+  authors: Jun Xu
+  content: tutorial at <strong>the 22nd China Conference on Information Retrieval, CCIR 2016</strong>
+  links: <a href="../downloads/CCIR2016-tutorial.pdf">slides</a>
+
+- title: "Learning to rank revisited: our progresses in new algorithms and tasks"
+  authors: Jun Xu
+  content: invited talk at <strong>the 4th China-Australia Database Workshop, 2015</strong>
+  links: <a href="../downloads/China-Australia-DB-workshop-talk.pdf">slides</a>
+
+- title: Learning to rank, from relevance to relational
+  authors: Jun Xu
+  content: tutorial at <strong>the 21st China Conference on Information Retrieval, CCIR 2015</strong>
+  links: <a href="../downloads/CCIR2015-tutorial.pdf">slides</a>
+
+- title: Learning for Search Result Diversification
+  authors: Jun Xu
+  content: tutorial at <strong>CCF YOCSEF Tianjin, 2015</strong>
+  links: <a href="../downloads/CCF-YOCSEF-Tianjin.pdf">slides</a>
+
+- title: Post Processing of Ranking in Search
+  authors: Jun Xu
+  content: invited talk at <strong>WSDM 2015 workshop on Vertical Search Relevance, 2015</strong>
+  links: <a href="../downloads/WSDM2014-workshop-talk.pdf">slides</a>
+
+- title: Semantic matching in search
+  authors: Jun Xu
+  content: tutorial at <strong>NLPCC 2014 & ADL 52, 2014</strong>
+  links: <a href="../downloads/NLPCC2014_ADL52_tutorial.pdf">slides</a>
+
+- title: "Beyond Bag-of-words: Machine Learning for Matching"
+  authors: Hang Li, Jun Xu
+  content: "invited talk at <strong>SIGIR 2013 workshop on Internet Advertising: Theory and Practice (IATP), 2013</strong>"
+  links:  placeholder
+
+- title: "Beyond Bag-of-Words: Machine Learning for Query-Document Matching"
+  authors: Jun Xu
+  content: tutorial at <strong>SIGIR 2012</strong>
+  links: <a href="../downloads/sigir2012_tutorial.pdf">slides</a>
+
+- title: Machine Learning for Query-Document Matching in Search
+  authors: Jun Xu
+  content: tutorial at <strong>WSDM 2012</strong>
+  links: placeholder
+
+- title: Machine Learning for Query-Document Matching in Search
+  authors: Jun Xu
+  content: tutorial at <strong>WWW 2012</strong>
+  links: placeholder
+
+- title: A Kernel Approach to Matching of Query and Document in Search
+  authors: Jun Xu
+  content: invited talk at <strong>ACLCLP IR Workshop, National Taiwan University, Taipei, 2010</strong>
+  links: placeholder
+

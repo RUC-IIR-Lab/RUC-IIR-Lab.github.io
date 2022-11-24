@@ -8,6 +8,11 @@
   info: 推荐系统
   email: hanxueran@ruc.edu.cn
 
+- name: 徐晨
+  photo: xuchen.jpg
+  info: 文本匹配，可解释推荐系统
+  email: xc_chen@ruc.edu.cn
+
 - name: 戴孙浩
   photo: daisunhao.jpeg
   info: 推荐系统，因果推断

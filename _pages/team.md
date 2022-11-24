@@ -15,8 +15,8 @@ permalink: /team/
 
 <div class="box2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="24%" style="float: left" />
-  <h3><strong> {{ member.name }}</strong> </h3>
-  <h4>{{ member.position }}</h4>
+  <h4><strong> {{ member.name }}</strong> </h4>
+  <h5>{{ member.position }}</h5>
   <i>{{ member.info }}   <br>email: <{{ member.email }}> <br>{{ member.intro }} 
 
 
