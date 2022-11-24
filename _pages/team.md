@@ -41,7 +41,7 @@ permalink: /team/
 
 {% endfor %} 
 
-**我们十分期待勤奋、踏实、认真的同学来了解和加入本课题组，我们长期欢迎各位同学申请博士研究生、硕士研究生、博士后。**
+**期待勤奋、踏实、认真的同学了解和加入本课题组，我们长期欢迎各位同学申请博士研究生、硕士研究生和博士后。**
 
 点击[“联系我们”]({{ site.url }}{{ site.baseurl }}/contact) 了解更多 **!**
 <!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/contact) **!** -->
