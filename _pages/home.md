@@ -6,8 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-智能信息检索课题组（**{{ site.name }}**）。
-**{{ site.name }}**主要关注利用人工智能技术解决信息检索（Infomation Retrieval）任务，现有成员包括专任教师2人，博士研究生、硕士研究生和本科生20余人。
+中国人民大学智能信息检索课题组（**{{ site.name }}**）。
+**{{ site.name }}**关注于基于人工智能的信息检索（Infomation Retrieval）模型与系统研发，现有成员包括专任教师2人，博士研究生、硕士研究生和本科生20余人。
+
+**欢迎对人工智能和信息检索研发感兴趣的同学与我们联系(E-mail: junxu@ruc.edu.cn)并期待大家的加入，共同推进信息检索技术的进步。**
 
 <!-- 下面是图片 -->
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -40,9 +42,6 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-**我们长期欢迎对人工智能和信息检索研发感兴趣的同学联系(E-mail: junxu@ruc.edu.cn)，期待大家的加入，共同推进技术的进步。**
 
 
 感谢长期以来对本课题组提供支持与合作的项目（
