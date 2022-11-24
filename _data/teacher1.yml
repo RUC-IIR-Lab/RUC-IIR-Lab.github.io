@@ -1,9 +1,13 @@
 - name: 徐君
   photo: junxu.jpg
-  position: 中国人民大学高瓴人工智能学院长聘副教授
-  info: 研究方向：信息检索、机器学习和大数据分析
+  position: 中国人民大学高瓴人工智能学院教授
+  info: 研究方向：智能信息检索、大数据分析
   email: junxu@ruc.edu.cn
   number_educ: 1
-  intro: 徐君曾先后就职于微软亚洲研究院、华为诺亚方舟实验室和中科院计算所，于2018年9月加入中国人民大学，任教授、中国人民大学杰出学者特聘教授。 徐君已发表论文一百五十余篇，获专利授权10项；所提出的排序学习算法收录于多本国际知名信息检索教科书和计算机手册，在多所国际知名大学的课程中被讲授，应用于开源系统Lemur以及微软、华为的搜索产品；获ACM SIGIR 2019 Test of Time Award Honorable Mention、CIKM 2017 Best Full Paper Runner-up、AIRS 2010和ICMLC 2005最佳论文奖。<strong>目前领导IIR实验室</strong>。
+  intro: 徐君，中国人民大学高瓴人工智能学院教授（长聘副教授）、中国人民大学杰出学者特聘教授、北京智源人工智能研究院智源学者。曾就职于微软亚洲研究院、华为诺亚方舟实验室（香港）
+  和中国科学院计算技术研究所，于2018年9月加入中国人民大学工作至今。
+  研究领域包括互联网搜索与推荐模型和系统，发表论文100余篇、专著2本、授权专利10余个，部分研究成果多次被欧美学者收录于信息检索教科书、应用于微软和华为的搜索和推荐产品；
+  获ACM SIGIR 2019 Test of Time Award Honorable Mention、CIKM 2017 Best Full Paper Runner-up、CCIR 2022、AIRS 2010和ICMLC 2005最佳论文奖，获北京市科学技术二等奖（自然科学奖，排名第2）；
+  主持国家重点研发和国家自然科学基金面上项目。
   homepage: <a href="https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=15&ruccode=20180130&ln=cn">个人主页</a>
   google_scholar: <a href="https://scholar.google.com/citations?user=su14mcEAAAAJ">Google Scholar</a>
