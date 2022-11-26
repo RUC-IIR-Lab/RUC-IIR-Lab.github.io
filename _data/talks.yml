@@ -1,13 +1,3 @@
-- title: Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
-  authors: Liang Pang, Qingyao Ai, Jun Xu
-  content: tutorial at <strong>SIGIR 2011</strong>
-  links:  <a href="https://github.com/pl8787/wsdm2021-beyond-prp-tutorial">website</a>
-  
-- title: Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
-  authors: Liang Pang, Qingyao Ai, Jun Xu
-  content: tutorial at <strong>WSDM 2011</strong>
-  links:  <a href="https://github.com/pl8787/wsdm2021-beyond-prp-tutorial">website</a>
-  
 - title: 基于因果分析的搜索纠偏方法
   authors: 徐君、张骁
   content: <strong>第二十七届全国信息检索学术会议（CCIR2021）</strong>教学报告
@@ -98,3 +88,12 @@
   content: invited talk at <strong>ACLCLP IR Workshop, National Taiwan University, Taipei, 2010</strong>
   links: placeholder
 
+- title: "Beyond Probability Ranking Principle: Modeling the Dependencies among Documents"
+  authors: Liang Pang, Qingyao Ai, Jun Xu
+  content: tutorial at <strong>SIGIR 2011</strong>
+  links:  <a href="https://github.com/pl8787/wsdm2021-beyond-prp-tutorial">Tutorial Slides and Presentations</a>
+  
+- title: "Beyond Probability Ranking Principle: Modeling the Dependencies among Documents"
+  authors: Liang Pang, Qingyao Ai, Jun Xu
+  content: tutorial at <strong>WSDM 2011</strong>
+  links:  <a href="https://github.com/pl8787/wsdm2021-beyond-prp-tutorial">Tutorial Slides and Presentations</a>
