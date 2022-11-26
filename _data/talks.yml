@@ -1,8 +1,18 @@
-- title: Debiasing Methods for Search based on Causal Inference 
-  authors: Jun Xu, Xiao Zhang
-  content: tutorial at <strong>the 27th China Conference on Information Retrieval, CCIR 2021</strong>
+- title: Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
+  authors: Liang Pang, Qingyao Ai, Jun Xu
+  content: tutorial at <strong>SIGIR 2011</strong>
+  links:  <a href="https://github.com/pl8787/wsdm2021-beyond-prp-tutorial">website</a>
+  
+- title: Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
+  authors: Liang Pang, Qingyao Ai, Jun Xu
+  content: tutorial at <strong>WSDM 2011</strong>
+  links:  <a href="https://github.com/pl8787/wsdm2021-beyond-prp-tutorial">website</a>
+  
+- title: 基于因果分析的搜索纠偏方法
+  authors: 徐君、张骁
+  content: <strong>第二十七届全国信息检索学术会议（CCIR2021）</strong>教学报告
   links: <a href="../downloads/JunXu_ZhangXiao-CCIR2021-Tutorial-20211126.pdf">slides</a>
-
+  
 - title: Deep Learning for Matching in Search and Recommendation 
   authors: Jun Xu, Xiangnan He, Hang Li
   content: tutorial at <strong>SIGIR 2018</strong>
