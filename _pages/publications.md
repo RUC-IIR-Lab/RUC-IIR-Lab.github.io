@@ -11,12 +11,12 @@ permalink: /publications/
 <!-- # Publications -->
 # 专著
 
-"**Deep Learning for Matching in Search and Recommendation**" by Jun Xu, Xiangnan He and Hang Li, Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
+Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Recommendation**" Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
 <br>
 <a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/DMRS.jpg" width="200" class="panel_cover_photo" /></a>
 <br>
 
-"**Semantic Matching in Search**" by Hang Li and Jun Xu, Now Publishers, 2014. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/SemanticMatchingInSearch_2014.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
+ Hang Li and Jun Xu. "**Semantic Matching in Search**" Now Publishers, 2014. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/SemanticMatchingInSearch_2014.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
 <br>
 <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035"><img src="{{ site.url }}{{ site.baseurl }}/images/SMSearch.jpg" width="200" class="panel_cover_photo" /></a>
 <br>
@@ -27,9 +27,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist_2022 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }}, </em> 
-  <strong> {{ publi.book }} </strong>.
+  {{ publi.authors }}. {{ publi.title }}. <em> {{ publi.book }} </em>.
   [<a href="{{ publi.url }}">PDF</a>]
 
 {% endfor %}
