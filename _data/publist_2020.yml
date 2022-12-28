@@ -2,3 +2,23 @@
   authors: Weijie Yu, Chen Xu, Jun Xu, Liang Pang, Xiaopeng Gao, Xiaozhao Wang, Ji-Rong Wen
   book: EMNLP 2020 main conference
   url: https://aclanthology.org/2020.emnlp-main.239.pdf
+
+- title: "Reinforcement Learning to Rank with Pairwise Policy Gradient"
+  authors: Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen
+  book: SIGIR 2020
+  url: https://dl.acm.org/doi/10.1145/3397271.3401148
+
+- title: "SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieval"
+  authors: Liang Pang, Jun Xu, Qingyao Ai, Yanyan Lan, Xueqi Cheng, Jirong Wen
+  book: SIGIR 2020
+  url: https://arxiv.org/abs/1912.05891
+
+- title: "Transformer-GCRF: Recovering Chinese Dropped Pronouns with General Conditional Random Fields"
+  authors: Jingxuan Yang, Kerui Xu, Jun Xu*, Si Li*, Sheng GAO, Jun Guo, Ji-Rong Wen, Nianwen Xue
+  book: EMNLP 2020
+  url: https://arxiv.org/abs/2010.03224
+
+- title: "RLPer: A Reinforcement Learning Model for Personalized Search"
+  authors: Jing Yao, Zhicheng Dou, Jun Xu, Ji-Rong Wen
+  book: WWW 2020
+  url: https://dl.acm.org/doi/abs/10.1145/3366423.3380294

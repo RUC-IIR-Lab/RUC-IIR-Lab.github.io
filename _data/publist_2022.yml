@@ -37,5 +37,15 @@
 - title: A Tag-Based Post-Hoc Framework for Explainable Conversational Recommendation
   authors: Kerui Xu, Jun Xu, Sheng Gao, Si Li, Jun Guo, Ji-Rong Wen
   book: ICTIR 2022
+  url: https://dl.acm.org/doi/abs/10.1145/3539813.354512
+
+- title: Separating Examination and Trust Bias from Click Predictions for Unbiased Relevance Ranking
+  authors: Haiyuan Zhao, Jun Xu, Xiao Zhang, Guohao Cai, Zhenghua Dong, Ji-rong Wen
+  book: WSDM 2023
+  url: 
+
+- title: Variance Reduction for Deep Q-Learning using Stochastic Recursive Gradient
+  authors: Haonan Jia, Xiao Zhang, Jun Xu, Wei Zeng, Hao Jiang,Xiaohui Yan
+  book: ICTIR 2022
   url: https://dl.acm.org/doi/abs/10.1145/3539813.3545120
 

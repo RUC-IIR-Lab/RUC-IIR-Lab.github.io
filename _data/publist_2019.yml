@@ -1,0 +1,36 @@
+- title: "Modeling the Parameter Interactions in Ranking SVM with Low-Rank Approximation"
+  authors: Jun Xu, Wei Zeng, Yanyan Lan, Jiafeng Guo, Xueqi Cheng
+  book: TKDE 2019, 31(6)
+  url:  https://ieeexplore.ieee.org/document/8399140
+
+- title: "Name Entity Recognition with Policy-Value Networks"
+  authors: Yadi Lao, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen
+  book: SIGIR 2019
+  url:  https://dl.acm.org/doi/abs/10.1145/3331184.3331349
+  
+- title: "Teaching Machines to Extract Main Content for Machine Reading Comprehension"
+  authors: Zhaohui Li, Yue Feng, Jun Xu, Jiafeng Guo, Yanyan Lan, Xueqi Cheng
+  book: AAAI 2019
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/5123
+  
+- title: "Multivariate Time Series Imputation with Generative Adversarial Networks"
+  authors:  Yonghong Luo, Xiangrui Cai, Ying Zhang, Jun Xu, Xiaojie Yuan
+  book: NIPS 2018
+  url: https://proceedings.neurips.cc/paper/2018/file/96b9bff013acedfb1d140579e2fbeb63-Paper.pdf
+
+- title: "PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click Data"
+  authors: Shuqi Lu, Zhicheng Dou, Jun Xu, Jian-Yun Nie, Ji-Rong Wen
+  book: SIGIR 2019
+  url: https://gsai.ruc.edu.cn/uploads/20211006/20fe005aaaf4f12cefed76d36f860378.pdf
+
+- title: "HAS-QA: Hierarchical Answer Spans Model for Open-Domain Question Answering"
+  authors: Liang Pang, Yanyan Lan, Jiafeng Guo, Jun Xu, Lixin Su, Xueqi Cheng
+  book: AAAI 2019
+  url: https://arxiv.org/abs/1901.03866
+
+- title: "Differentiated Distribution Recovery for Neural Text Generation"
+  authors: Jianing Li, Yanyan Lan, Jiafeng Guo, Jun Xu, Xueqi Cheng
+  book: AAAI 2019 
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/4639
+
+

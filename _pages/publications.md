@@ -23,7 +23,7 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 # 论文
 
-### 2022年:
+### 2022:
 
 {% for publi in site.data.publist_2022 %}
 
@@ -32,7 +32,7 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% endfor %}
 
-### 2021年：
+### 2021：
 
 {% for publi in site.data.publist_2021 %}
 
@@ -41,9 +41,18 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% endfor %}
 
-### 2020年：
+### 2020：
 
 {% for publi in site.data.publist_2020 %}
+
+  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
+  [<a href="{{ publi.url }}">PDF</a>]
+
+{% endfor %}
+
+### 2019：
+
+{% for publi in site.data.publist_2019 %}
 
   {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
   [<a href="{{ publi.url }}">PDF</a>]
