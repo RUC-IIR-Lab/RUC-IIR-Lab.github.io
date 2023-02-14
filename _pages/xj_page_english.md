@@ -12,7 +12,7 @@ permalink: /team/junxu_en
 {% endfor %}
 <h1><strong> Jun Xu</strong> </h1>
 <h3>Position: Professor at Gaoling School of Artificial Intelligence, Renmin University of China</h3>
-<h4>Rearch Interests：intelligent information retrieval and big data analysis</h4>
+<h4>Research Interests：intelligent information retrieval and big data analysis</h4>
 <h4>Email: junxu@ruc.edu.cn</h4>
 <h4>Address: No. 59 Zhongguancun Street, Haidian District Beijing, 100872, China</h4>
 <a href = "http://scholar.google.com/citations?user=su14mcEAAAAJ&hl=en">Google Scholar</a>&nbsp;&nbsp;&nbsp;<a href = "http://dblp.uni-trier.de/pers/hd/x/Xu_0001:Jun">DBLP</a>&nbsp;&nbsp;&nbsp;<a href="http://dl.acm.org/author_page.cfm?id=81423592460">ACM</a>&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/team/junxu.html">中文主页</a>
