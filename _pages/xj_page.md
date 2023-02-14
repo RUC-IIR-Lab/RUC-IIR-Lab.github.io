@@ -17,6 +17,8 @@ permalink: /team/junxu
 <h4>通信地址：北京市海淀区中关村大街59号中国人民大学信息楼 100872</h4>
 <a href = "http://scholar.google.com/citations?user=su14mcEAAAAJ&hl=en">谷歌学术主页</a>&nbsp;&nbsp;&nbsp;<a href = "http://dblp.uni-trier.de/pers/hd/x/Xu_0001:Jun">DBLP</a>&nbsp;&nbsp;&nbsp;<a href="http://dl.acm.org/author_page.cfm?id=81423592460">ACM 主页</a>&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/team/junxu_en.html">English Version</a>
 </div>
+
+
 ## 简介
 
 徐君曾就职于微软亚洲研究院、华为诺亚方舟实验室（香港）和中国科学院计算技术研究所，于2018年9月加入中国人民大学工作至今。在国内外学术会议或期刊上共发表论文100余篇，其中CCF-A类论文39篇，SCI收录14篇，近5年以主要作者身份发表论文30篇。谷歌学术统计论文总共被引用超7000次（近5年超4300次）、单篇最高引用超1000次、13篇论文引用达到100次、H-指数为35。论文合计SCI他引1255次，部分工作被欧美学者写入多本教科书、专著/手册，在课程中讲授。获发明专利授权12项，其中美国专利9项、PCT国际专利申请2项(已在多国授权)。
