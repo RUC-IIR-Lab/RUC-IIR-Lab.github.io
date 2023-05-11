@@ -164,7 +164,7 @@ permalink: /team/
 <div class="col-sm-4 clearfix">
 <h4>博士生</h4>
 {% for member in site.data.alumni_phd %}
-<i> {{ member.name }}
+<i> {{ member.name }} <br>毕业去向： {{ member.quxiang}}
 {% endfor %}
 </div>
 
