@@ -1,3 +1,33 @@
+- title: "Controllable Multi-Objective Re-ranking with Policy Hypernetworks"
+  authors:  Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, ChangShuo Zhang, Xiao Zhang, Lin Quan, Cheng Zhu, Jun Xu
+  book: KDD 2023 (ADS track)
+  url: 
+
+- title: "Conditional Counterfactual Causal Effect for Individual Attribution"
+  authors: Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Jun Xu, Zhi Geng, Yangbo He
+  book: UAI 2023
+  url: 
+
+- title: "ACRank: 在神经排序模型中引入检索公理知识"
+  authors:  薄琳，庞亮，张朝亮，王钊伟，董振华，徐君，文继荣
+  book: 计算机学报
+  url: 
+
+- title: "When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation"
+  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen
+  book: SIGIR 2023
+  url: https://gsai.ruc.edu.cn/uploads/20230518/9d1f9b4bc1c31dad014b1e624fbdea05.pdf
+
+- title: "Law Article-Enhanced Legal Case Matching: a Causal Learning Approach"
+  authors: Zhongxiang Sun, Jun Xu, Xiao Zhang, Zhenhua Dong, Ji-Rong Wen
+  book: SIGIR 2023
+  url: https://gsai.ruc.edu.cn/uploads/20230518/fe4d045ed303409012e5fe3ee6c24e32.pdf
+
+- title: "U-SetRank：基于注意力机制修正的SetRank纠偏"
+  authors: 张乐凭，徐君，庞亮，董振华，文继荣
+  book: 计算机研究与发展
+  url:  
+
 - title: "Enhancing Recommendation with Search Data in a Causal Learning Manner"
   authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen
   book: TOIS 2023
@@ -5,5 +35,5 @@
 
 - title: "P-MMF: Provider Max-min Fairness Re-ranking in Recommender System"
   authors: Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, Xiao Zhang, Gang Wang, Zhenghua Dong
-  book: WWW 2023
-  url:
+  book: WWW 2023 (Splotlight - Best Paper Nomination)
+  url: https://dl.acm.org/doi/10.1145/3543507.3583296

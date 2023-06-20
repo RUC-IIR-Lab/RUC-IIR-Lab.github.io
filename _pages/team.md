@@ -161,19 +161,17 @@ permalink: /team/
 ## 毕业生
 <div class="row">
 
-<div class="col-sm-4 clearfix">
 <h4>博士生</h4>
 {% for member in site.data.alumni_phd %}
-<i> {{ member.name }} <br>毕业去向： {{ member.quxiang}}
+{{ member.name }}  ({{ member.quxiang}})
 {% endfor %}
-</div>
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix"> -->
 <h4>硕士生</h4>
 {% for member in site.data.alumni_msc %}
-<i> {{ member.name }} <br>毕业去向： {{ member.quxiang}}
+{{ member.name }}  ({{ member.quxiang}})
 {% endfor %}
-</div>
+<!-- </div> -->
 
 
 </div>
