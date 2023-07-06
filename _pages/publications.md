@@ -27,8 +27,8 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2023 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
-  [<a href="{{ publi.url }}">PDF</a>]
+  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.{% if publi.url != 'pad' %} [<a href="{{ publi.url }}">PDF</a>] {% endif %} {% if publi.url == 'pad' %}[Just Accepted] {% endif %}
+  
 
 {% endfor %}
 

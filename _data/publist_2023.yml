@@ -1,17 +1,27 @@
+- title: "Syntactic-Informed Graph Networks for Sentence Matching"
+  authors:  Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong, Wen
+  book: TOIS 
+  url: pad
+
+- title: "Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation"
+  authors:  Haiyuan Zhao, Lei Zhang, Jun Xu, Guohao Cai, Zhenhua Dong and Ji-Rong Wen
+  book: RecSys 2023
+  url: pad
+
 - title: "Controllable Multi-Objective Re-ranking with Policy Hypernetworks"
   authors:  Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, ChangShuo Zhang, Xiao Zhang, Lin Quan, Cheng Zhu, Jun Xu
   book: KDD 2023 (ADS track)
-  url: 
+  url: pad
 
 - title: "Conditional Counterfactual Causal Effect for Individual Attribution"
   authors: Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Jun Xu, Zhi Geng, Yangbo He
   book: UAI 2023
-  url: 
+  url: pad
 
 - title: "ACRank: 在神经排序模型中引入检索公理知识"
   authors:  薄琳，庞亮，张朝亮，王钊伟，董振华，徐君，文继荣
   book: 计算机学报
-  url: 
+  url: https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSJX20230424001
 
 - title: "When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation"
   authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen
@@ -30,7 +40,7 @@
 
 - title: "Enhancing Recommendation with Search Data in a Causal Learning Manner"
   authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen
-  book: TOIS 2023
+  book: TOIS vol.41
   url:  https://dl.acm.org/doi/abs/10.1145/3582425
 
 - title: "P-MMF: Provider Max-min Fairness Re-ranking in Recommender System"
