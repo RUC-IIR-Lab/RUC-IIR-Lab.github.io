@@ -1,3 +1,8 @@
+- title: "Uncovering ChatGPT's Capabilities in Recommender Systems"
+  authors:  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
+  book: RecSys 2023 
+  url: pad
+
 - title: "Syntactic-Informed Graph Networks for Sentence Matching"
   authors:  Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong, Wen
   book: TOIS 
