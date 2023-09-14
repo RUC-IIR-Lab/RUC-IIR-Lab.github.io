@@ -1,12 +1,27 @@
+- title: "HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation"
+  authors: Chenglei Shen, Xiao Zhang, Wei Wei, Jun Xu
+  book: CIKM 2023 
+  url: pad
+
+- title: "KuaiSAR: A Unified Search And Recommendation Dataset"
+  authors: Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, Xiao Zhang, Jun Xu
+  book: CIKM 2023 
+  url: https://arxiv.org/abs/2306.07705
+
+- title: "Dually Enhanced Delayed Feedback Modeling for Streaming Conversion Rate Prediction"
+  authors: Sunhao Dai, Yuqi Zhou, Jun Xu, Ji-Rong Wen
+  book: CIKM 2023 
+  url: pad
+
 - title: "Uncovering ChatGPT's Capabilities in Recommender Systems"
   authors:  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
   book: RecSys 2023 
-  url: pad
+  url: https://arxiv.org/abs/2305.02182
 
 - title: "Syntactic-Informed Graph Networks for Sentence Matching"
   authors:  Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong, Wen
   book: TOIS 
-  url: pad
+  url: https://dl.acm.org/doi/10.1145/3609795
 
 - title: "Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation"
   authors:  Haiyuan Zhao, Lei Zhang, Jun Xu, Guohao Cai, Zhenhua Dong and Ji-Rong Wen
@@ -16,12 +31,12 @@
 - title: "Controllable Multi-Objective Re-ranking with Policy Hypernetworks"
   authors:  Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, ChangShuo Zhang, Xiao Zhang, Lin Quan, Cheng Zhu, Jun Xu
   book: KDD 2023 (ADS track)
-  url: pad
+  url: https://dl.acm.org/doi/10.1145/3580305.3599796
 
 - title: "Conditional Counterfactual Causal Effect for Individual Attribution"
   authors: Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Jun Xu, Zhi Geng, Yangbo He
   book: UAI 2023
-  url: pad
+  url: https://proceedings.mlr.press/v216/zhao23a.html
 
 - title: "ACRank: 在神经排序模型中引入检索公理知识"
   authors:  薄琳，庞亮，张朝亮，王钊伟，董振华，徐君，文继荣
