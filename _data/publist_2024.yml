@@ -1,0 +1,24 @@
+- title: "Smooth Start: A Unified Approach for gradual transition from cold to old in Recommender Systems"
+  authors: Jianwen Yang, Xiao Zhang, Jun Xu
+  book: ICASSP 2024
+  url: pad
+
+- title: "Logic Rules as Explanations for Legal Case Retrieval"
+  authors:  ZhongXiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang and Jun Xu
+  book: COLING 2024
+  url: pad
+
+- title: "List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation"
+  authors:  Shicheng Xu, Liang Pang, Jun Xu, Huawei Shen, Xueqi Cheng
+  book: WWW 2024
+  url: pad
+
+- title: "FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval"
+  authors:  Chen Xu, Jun Xu, Yiming Ding, Xiao Zhang, Qi Qi
+  book: WWW 2024
+  url: pad
+  
+- title: "Modeling User Attention in Music Recommendation"
+  authors:  Sunhao Dai, Ninglu Shao, Jieming Zhu, Xiao Zhang, Zhenhua Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen
+  book: ICDE 2024
+  url: pad
