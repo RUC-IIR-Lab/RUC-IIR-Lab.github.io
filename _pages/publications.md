@@ -23,6 +23,15 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 # 论文
 
+### 2024:
+
+{% for publi in site.data.publist_2024 %}
+
+  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.{% if publi.url != 'pad' %} [<a href="{{ publi.url }}">PDF</a>] {% endif %} {% if publi.url == 'pad' %}[Just Accepted] {% endif %}
+  
+
+{% endfor %}
+
 ### 2023:
 
 {% for publi in site.data.publist_2023 %}
