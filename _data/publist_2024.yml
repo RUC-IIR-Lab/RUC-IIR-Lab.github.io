@@ -1,3 +1,71 @@
+- title: "Neural Retrievers are Biased Towards LLM-Generated Content"
+  authors: Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
+  book: KDD (2024)
+  url: pad
+
+- title: "Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time"
+  authors: Haiyuan Zhao, Guohao Cai, Jieming Zhu, Zhenhua Dong, Jun Xu, Ji-Rong Wen
+  book: KDD (2024)
+  url: pad
+
+- title: "Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method"
+  authors:  Chen Yang, Sunhao Dai, Yupeng Hou, Xin Zhao, Jun Xu, SONG Yang, Hengshu Zhu
+  book: KDD (2024)
+  url: pad
+
+- title: "Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning"
+  authors: Jiakai Tang, Sunhao Dai, Zexu Sun, Xu Chen, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
+  book: KDD (2024)
+  url: pad
+
+- title: "Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration"
+  authors: Sunhao Dai, Weihao Liu, Yuqi Zhou, Liang Pang, Rongju Ruan, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen
+  book: ACL Findings (2024)
+  url: pad
+
+- title: "Effective In-Context Example Selection through Data Compression"
+  authors: ZhongXiang Sun, Kepu Zhang, Haoyu Wang, Xiao Zhang, Jun Xu
+  book:  ACL Findings (2024)
+  url: pad
+
+- title: "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach"
+  authors: Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen and Jun Xu
+  book: SIGIR 2024
+  url: pad
+
+- title: "ReCODE: Modeling Repeat Consumption with Neural ODE"
+  authors: Sunhao Dai, Changle Qu, Sirui Chen, Xiao Zhang and Jun Xu
+  book: SIGIR 2024
+  url: pad
+
+- title: "To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process"
+  authors: Zhongxiang Sun, Zihua Si, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu
+  book: SIGIR 2024
+  url: pad
+
+
+- title: "A Taxation Perspective for Fair Re-ranking"
+  authors: Chen Xu, Xiaopeng Ye, Wenjie Wang, Liang Pang, Jun Xu and Tat-Seng Chua
+  book: SIGIR 2024
+  url: pad
+
+
+- title: "UniSAR: Modeling User Transition Behaviors between Search and Recommendation"
+  authors: Teng Shi, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song
+  book: SIGIR 2024
+  url: pad
+
+- title: "Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images"
+  authors: Shicheng Xu, Danyang Hou, Liang Pang, Jingcheng Deng, Jun Xu, Huawei Shen and Xueqi Cheng
+  book: SIGIR 2024
+  url: pad
+
+
+- title: "Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy"
+  authors: Changshuo Zhang, Sirui Chen, Xiao Zhang, Sunhao Dai, Weijie Yu, Jun Xu
+  book: SIGIR 2024
+  url: pad
+
 - title: "Smooth Start: A Unified Approach for gradual transition from cold to old in Recommender Systems"
   authors: Jianwen Yang, Xiao Zhang, Jun Xu
   book: ICASSP 2024
