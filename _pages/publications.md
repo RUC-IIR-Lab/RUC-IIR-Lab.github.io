@@ -22,7 +22,7 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 <br>
 <a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/DMRS.jpg" width="200" class="panel_cover_photo" /></a>
-<a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/match_zh.png" width="200" class="panel_cover_photo" /></a>
+<a href=""><img src="{{ site.url }}{{ site.baseurl }}/images/match_zh.png" width="200" class="panel_cover_photo" /></a>
 <br>
 
 
