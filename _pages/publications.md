@@ -9,13 +9,13 @@ permalink: /publications/
 下面分别展示了已经发表的[专著](#专著)、[论文](#论文列表)和[学术报告](#学术报告)。
 
 <!-- # Publications -->
-# 专著
+# 教科书
 文继荣，徐君。 "**人工智能与Python程序设计（新编21世纪人工智能系列教材）**", Now Publishers, 2024. (<a href="https://item.jd.com/10104335932194.html">link</a>)
 <br>
 <a href="https://item.jd.com/10104335932194.html"><img src="{{ site.url }}{{ site.baseurl }}/images/python.png" width="200" class="panel_cover_photo" /></a>
 <br>
 
-
+# 专著
 Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Recommendation**", Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>, <a href="https://item.jd.com/10068346175993.html">中文版</a>)
 
 <br>
