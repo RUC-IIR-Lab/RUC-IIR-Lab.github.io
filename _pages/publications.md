@@ -18,7 +18,7 @@ permalink: /publications/
 # 专著
 Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Recommendation**", Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
 
-（中文译本）徐君, 何向南, 李航. "**深度匹配学习：面向搜索与推荐 推荐系统NLP深度学习人工智能搜索引擎推荐模型语义鸿沟语义匹配**", 人民邮电出版社, 2023. 
+（中文译本）徐君, 何向南, 李航. "**深度匹配学习：面向搜索与推荐**", 人民邮电出版社, 2023. 
 
 <br>
 <a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/DMRS.jpg" width="200" class="panel_cover_photo" /></a>
