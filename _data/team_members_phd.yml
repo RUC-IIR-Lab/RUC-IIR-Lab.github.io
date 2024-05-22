@@ -38,12 +38,29 @@
 - name: 周雨琦
   photo: zhouyuqi.jpeg
   info: 推荐系统 
-  email: yuqigogogo@foxmail.com
+  email: yuqizhou@ruc.edu.cn
 
 - name: 沈承磊
   photo: shenchenglei.jpg
   info: 推荐系统 
   email: chengleishen9@ruc.edu.cn
+
+- name: 渠常乐
+  photo: quchangle.jpg
+  info: 大模型工具学习 
+  email: changlequ@ruc.edu.cn
+
+- name: 刘炜豪
+  photo: liuweihao.jpg
+  info: 推荐系统，大语言模型 
+  email: weihaoliu1209@outlook.com
+
+- name: 王浩喻
+  photo: wanghaoyu.jpg
+  info: 可信信息检索
+  email: 2020202817@ruc.edu.cn
+
+
 
 
 - name: "这也可以是你！"

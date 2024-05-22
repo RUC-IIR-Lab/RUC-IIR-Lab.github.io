@@ -10,5 +10,22 @@
 
 - name: 张昌硕
   photo: zhangchangshuo.jpeg
-  info: 推荐系统 
-  email: lyingCS@foxmail.com
+  info: 推荐系统、强化学习
+  email: lyingcs@ruc.edu.cn
+  homepage: homepage: <a href="https://github.com/lyingCS">个人主页</a>
+
+- name: 张珂镨
+  photo: zhangkepu.jpg
+  info: 信息检索，推荐系统
+  email: kepuzhang@ruc.edu.cn
+
+- name: 张蕾
+  photo: zhanglei.jpg
+  info: 因果推荐、大语言模型
+  email: zhanglei1010@ruc.edu.cn
+
+- name: 徐熠
+  photo: xuyi.jpg
+  info: 推荐系统，大语言模型推荐
+  email: yixu00@ruc.edu.cn
+  homepage: homepage: <a href="https://fa1con-hsui.github.io">个人主页</a>
