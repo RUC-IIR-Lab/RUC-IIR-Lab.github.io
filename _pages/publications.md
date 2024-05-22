@@ -16,11 +16,9 @@ permalink: /publications/
 <br>
 
 
-Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Recommendation**", Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>), <a href="https://item.jd.com/10068346175993.html">中文版</a>)
+Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Recommendation**", Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>, <a href="https://item.jd.com/10068346175993.html">中文版</a>)
 <br>
 <a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/DMRS.jpg" width="200" class="panel_cover_photo" /></a>
-<br>
-<br>
 <a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/match_zh.png" width="200" class="panel_cover_photo" /></a>
 <br>
 
