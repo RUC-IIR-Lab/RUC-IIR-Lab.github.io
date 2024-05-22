@@ -61,7 +61,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {% if member.placeholder != 1 %}
-  <i>研究方向：{{ member.info }} <br> email：{{ member.email }}</i>
+  <i>研究方向：{{ member.info }} <br> email：{{ member.email }} <br> homepage：{{ member.homepage }}</i>
   {% endif %}
   
   {% if member.placeholder == 1 %}
@@ -98,7 +98,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {% if member.placeholder != 1 %}
-  <i>研究方向：{{ member.info }} <br> email：{{ member.email }} <br> email：{{ member.homepage }}</i>
+  <i>研究方向：{{ member.info }} <br> email：{{ member.email }} <br> homepage：{{ member.homepage }}</i>
   {% endif %}
   
   {% if member.placeholder == 1 %}
