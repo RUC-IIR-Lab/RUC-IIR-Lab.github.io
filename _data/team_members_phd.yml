@@ -2,7 +2,7 @@
   photo: zhaohaiyuan.jpeg
   info: 数据纠偏
   email: haiyuanzhao@ruc.edu.cn
-
+  
 - name: 徐晨
   photo: xuchen.jpg
   info: 文本匹配，可解释推荐系统
@@ -22,6 +22,7 @@
   photo: sunzhongxiang.jpeg
   info: 可信的大模型协同信息检索，司法领域信息检索，推荐系统
   email: sunzhongxiang@ruc.edu.cn
+  homepage: https://jeryi-sun.github.io/
 
 - name: 石腾
   photo: shiteng.jpeg
