@@ -21,8 +21,7 @@ permalink: /team/junxu
 
 ## 简介
 
-徐君曾就职于微软亚洲研究院、华为诺亚方舟实验室（香港）和中国科学院计算技术研究所，于2018年9月加入中国人民大学工作至今。在国内外学术会议或期刊上共发表论文100余篇，其中CCF-A类论文39篇，SCI收录14篇，近5年以主要作者身份发表论文30篇。谷歌学术统计论文总共被引用超7000次（近5年超4300次）、单篇最高引用超1000次、13篇论文引用达到100次、H-指数为35。论文合计SCI他引1255次，部分工作被欧美学者写入多本教科书、专著/手册，在课程中讲授。获发明专利授权12项，其中美国专利9项、PCT国际专利申请2项(已在多国授权)。
-获ACM SIGIR 2019 Test of Time Award Honorable Mention、CIKM 2017 Best Full Paper Runner-up、CCIR 2022、AIRS 2010和ICMLC 2005最佳论文奖，获北京市自然科学奖二等奖（排名第2）。主持国家重点研发和国家自然科学基金面上项目。
+徐君，中国人民大学高瓴人工智能学院教授、博士生导师，北京智源人工智能研究院智源学者。曾就职于微软亚洲研究院、华为诺亚方舟实验室（香港）和中国科学院计算技术研究所，于2018年9月加入中国人民大学工作至今。研究领域包括互联网搜索与智能推荐模型和系统，发表论文超过100篇、英文专著2本、中文教科书1本，部分研究成果多次被欧美学者写入信息检索教科书，应用于微软、华为、快手等公司的信息检索产品和开源系统。获ACM SIGIR 2019 Test of Time Award Honorable Mention、ACM SIGIR-AP 2023 Best Paper Award、WWW 2023 Spotlight Paper/Best Paper Nomination、CIKM 2017 Best Full Paper Runner-up、CCIR 2022, AIRS 2010和ICMLC 2005最佳论文奖，获教育部自然科学一等奖（排名第4）、北京市自然科学奖二等奖（排名第2）。担任学术会议ACM SIGIR和NeurIPS领域主席，是学术期刊ACM TIST副主编和JASIST编委，主持国家重点研发项目/课题和国家自然科学基金面上项目。
 
 ## 教育背景
 
@@ -56,12 +55,22 @@ permalink: /team/junxu
 ## 学术成果精选
 
 
-### 专著
+### 教科书
+文继荣，徐君。 "**人工智能与Python程序设计（新编21世纪人工智能系列教材）**", 中国人民大学出版社, 2024. 
+<br>
+<a href=""><img src="{{ site.url }}{{ site.baseurl }}/images/python.png" width="200" class="panel_cover_photo" /></a>
+<br>
 
+### 专著
 Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Recommendation**", Now Publishers, 2020. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/fntir20-DL4Match.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
+
+（中文译本）徐君, 何向南, 李航. "**深度匹配学习：面向搜索与推荐**", 人民邮电出版社, 2023. 
+
 <br>
 <a href="https://www.nowpublishers.com/article/Details/INR-076"><img src="{{ site.url }}{{ site.baseurl }}/images/DMRS.jpg" width="200" class="panel_cover_photo" /></a>
+<a href=""><img src="{{ site.url }}{{ site.baseurl }}/images/match_zh.png" width="200" class="panel_cover_photo" /></a>
 <br>
+
 
  Hang Li and Jun Xu. "**Semantic Matching in Search**", Now Publishers, 2014. (<a href="{{ site.url }}{{ site.baseurl }}/downloads/SemanticMatchingInSearch_2014.pdf">pdf</a>, <a href="http://www.nowpublishers.com/articles/foundations-and-trends-in-information-retrieval/INR-035">link</a>)
 <br>
