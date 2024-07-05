@@ -2,100 +2,232 @@
   authors: Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
   book: KDD (2024)
   url: pad
+  year: 2024
 
 - title: "Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time"
   authors: Haiyuan Zhao, Guohao Cai, Jieming Zhu, Zhenhua Dong, Jun Xu, Ji-Rong Wen
   book: KDD (2024)
   url: pad
+  year: 2024
 
 - title: "Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method"
   authors:  Chen Yang, Sunhao Dai, Yupeng Hou, Xin Zhao, Jun Xu, SONG Yang, Hengshu Zhu
   book: KDD (2024)
   url: pad
+  year: 2024
 
 - title: "Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning"
   authors: Jiakai Tang, Sunhao Dai, Zexu Sun, Xu Chen, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
   book: KDD (2024)
   url: pad
+  year: 2024
 
 - title: "Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration"
   authors: Sunhao Dai, Weihao Liu, Yuqi Zhou, Liang Pang, Rongju Ruan, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen
   book: ACL Findings (2024)
   url: pad
+  year: 2024
 
 - title: "Effective In-Context Example Selection through Data Compression"
   authors: ZhongXiang Sun, Kepu Zhang, Haoyu Wang, Xiao Zhang, Jun Xu
   book:  ACL Findings (2024)
   url: pad
+  year: 2024
 
 - title: "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach"
   authors: Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen and Jun Xu
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 - title: "ReCODE: Modeling Repeat Consumption with Neural ODE"
   authors: Sunhao Dai, Changle Qu, Sirui Chen, Xiao Zhang and Jun Xu
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 - title: "To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process"
   authors: Zhongxiang Sun, Zihua Si, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 
 - title: "A Taxation Perspective for Fair Re-ranking"
   authors: Chen Xu, Xiaopeng Ye, Wenjie Wang, Liang Pang, Jun Xu and Tat-Seng Chua
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 
 - title: "UniSAR: Modeling User Transition Behaviors between Search and Recommendation"
   authors: Teng Shi, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 - title: "Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images"
   authors: Shicheng Xu, Danyang Hou, Liang Pang, Jingcheng Deng, Jun Xu, Huawei Shen and Xueqi Cheng
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 
 - title: "Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy"
   authors: Changshuo Zhang, Sirui Chen, Xiao Zhang, Sunhao Dai, Weijie Yu, Jun Xu
   book: SIGIR 2024
   url: pad
+  year: 2024
 
 - title: "Smooth Start: A Unified Approach for gradual transition from cold to old in Recommender Systems"
   authors: Jianwen Yang, Xiao Zhang, Jun Xu
   book: ICASSP 2024
   url: pad
+  year: 2024
 
 - title: "Logic Rules as Explanations for Legal Case Retrieval"
   authors:  ZhongXiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang and Jun Xu
   book: COLING 2024
   url: pad
+  year: 2024
 
 - title: "List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation"
   authors:  Shicheng Xu, Liang Pang, Jun Xu, Huawei Shen, Xueqi Cheng
   book: WWW 2024
   url: pad
+  year: 2024
 
 - title: "FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval"
   authors:  Chen Xu, Jun Xu, Yiming Ding, Xiao Zhang, Qi Qi
   book: WWW 2024
   url: pad
+  year: 2024
   
-- title: "Modeling User Attention in Music Recommendation"
-  authors:  Sunhao Dai, Ninglu Shao, Jieming Zhu, Xiao Zhang, Zhenhua Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen
-  book: ICDE 2024
-  url: pad
+- title: "Reward Imputation with Sketching for Contextual Batched Bandits"
+  authors:  Xiao Zhang, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen
+  book: NeurIPS 2023
+  url: https://dev.neurips.cc/virtual/2023/poster/72337
+  year: 2023
+
+
+- title: "Explainable Legal Case Matching via Graph Optimal Transport"
+  authors: Zhongxiang Sun, Weijie Yu, Zihua Si, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen
+  book: TKDE
+  url: https://ieeexplore.ieee.org/abstract/document/10285038/
+  year: 2023
+
+
+- title: "Reinforcement Re-ranking with 2D Grid-based Recommendation Panels"
+  authors: Sirui Chen, Xiao Zhang, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin, and Jun Xu
+  book: SIGIR-AP 23
+  url: https://dl.acm.org/doi/abs/10.1145/3624918.3625311
+  year: 2023
+
+
+- title: "Unbiased Top-$k$ Learning to Rank with Causal Likelihood Decomposition"
+  authors: Haiyuan Zhao, Jun Xu, Xiao Zhang, Guohao Cai, Zhenhua Dong, Ji-Rong Wen
+  book: SIGIR-AP 23
+  url: https://dl.acm.org/doi/abs/10.1145/3624918.3625340
+  year: 2023
+
+
+- title: "HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation"
+  authors: Chenglei Shen, Xiao Zhang, Wei Wei, Jun Xu
+  book: CIKM 2023 
+  url: https://dl.acm.org/doi/10.1145/3583780.3614921
+  year: 2023
+
+
+- title: "KuaiSAR: A Unified Search And Recommendation Dataset"
+  authors: Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, Xiao Zhang, Jun Xu
+  book: CIKM 2023 
+  url: https://arxiv.org/abs/2306.07705
+  year: 2023
+
+
+- title: "Dually Enhanced Delayed Feedback Modeling for Streaming Conversion Rate Prediction"
+  authors: Sunhao Dai, Yuqi Zhou, Jun Xu, Ji-Rong Wen
+  book: CIKM 2023 
+  url: https://dl.acm.org/doi/10.1145/3583780.3614856
+  year: 2023
+
+
+- title: "Uncovering ChatGPT's Capabilities in Recommender Systems"
+  authors:  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
+  book: RecSys 2023 
+  url: https://arxiv.org/abs/2305.02182
+  year: 2023
+
+
+- title: "Syntactic-Informed Graph Networks for Sentence Matching"
+  authors:  Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong, Wen
+  book: TOIS 
+  url: https://dl.acm.org/doi/10.1145/3609795
+  year: 2023
+
+
+- title: "Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation"
+  authors:  Haiyuan Zhao, Lei Zhang, Jun Xu, Guohao Cai, Zhenhua Dong and Ji-Rong Wen
+  book: RecSys 2023
+  url: https://dl.acm.org/doi/10.1145/3604915.3608797
+  year: 2023
+
+
+- title: "Controllable Multi-Objective Re-ranking with Policy Hypernetworks"
+  authors:  Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, ChangShuo Zhang, Xiao Zhang, Lin Quan, Cheng Zhu, Jun Xu
+  book: KDD 2023 (ADS track)
+  url: https://dl.acm.org/doi/10.1145/3580305.3599796
+  year: 2023
+
+
+- title: "Conditional Counterfactual Causal Effect for Individual Attribution"
+  authors: Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Jun Xu, Zhi Geng, Yangbo He
+  book: UAI 2023
+  url: https://proceedings.mlr.press/v216/zhao23a.html
+  year: 2023
+
+
+- title: "ACRank: 在神经排序模型中引入检索公理知识"
+  authors:  薄琳，庞亮，张朝亮，王钊伟，董振华，徐君，文继荣
+  book: 计算机学报
+  url: https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSJX20230424001
+  year: 2023
+
+
+- title: "When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation"
+  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen
+  book: SIGIR 2023
+  url: https://gsai.ruc.edu.cn/uploads/20230518/9d1f9b4bc1c31dad014b1e624fbdea05.pdf
+  year: 2023
+
+
+- title: "Law Article-Enhanced Legal Case Matching: a Causal Learning Approach"
+  authors: Zhongxiang Sun, Jun Xu, Xiao Zhang, Zhenhua Dong, Ji-Rong Wen
+  book: SIGIR 2023
+  url: https://gsai.ruc.edu.cn/uploads/20230518/fe4d045ed303409012e5fe3ee6c24e32.pdf
+  year: 2023
+
+
+- title: "U-SetRank：基于注意力机制修正的SetRank纠偏"
+  authors: 张乐凭，徐君，庞亮，董振华，文继荣
+  book: 计算机研究与发展
+  url:  
+  year: 2023
+
 
 - title: "Enhancing Recommendation with Search Data in a Causal Learning Manner"
-  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, <strong>Jun Xu</strong>, Yang Song, Xiaoxue Zang, Ji-Rong Wen
-  book: TOIS 2023
+  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen
+  book: TOIS vol.41
   url:  https://dl.acm.org/doi/abs/10.1145/3582425
   year: 2023
+
+
+- title: "P-MMF: Provider Max-min Fairness Re-ranking in Recommender System"
+  authors: Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, Xiao Zhang, Gang Wang, Zhenghua Dong
+  book: WWW 2023 (Splotlight - Best Paper Nomination)
+  url: https://dl.acm.org/doi/10.1145/3543507.3583296
+  year: 2023
+
 
 - title: "P-MMF: Provider Max-min Fairness Re-ranking in Recommender System"
   authors: Chen Xu, Sirui Chen, <strong>Jun Xu</strong>, Weiran Shen, Xiao Zhang, Gang Wang, Zhenghua Dong
