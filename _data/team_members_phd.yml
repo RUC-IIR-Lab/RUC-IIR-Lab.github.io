@@ -7,11 +7,13 @@
   photo: xuchen.jpg
   info: 文本匹配，可解释推荐系统
   email: xc_chen@ruc.edu.cn
+  homepage: <a href="https://xuchen0427.github.io/">个人主页</a>
 
 - name: 戴孙浩
   photo: daisunhao.jpeg
   info: 可信信息检索和推荐系统，大语言模型
   email: sunhaodai@ruc.edu.cn
+  homepage: <a href="https://kid-22.github.io/">个人主页</a>
 
 - name: 曹泽麟
   photo: caozelin.jpeg
