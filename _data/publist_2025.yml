@@ -1,0 +1,90 @@
+- title: "CitaLaw: Enhancing LLM with Citations in Legal Domain"
+  authors: Kepu Zhang, Weijie Yu, Sunhao Dai, Jun Xu
+  book: ACL Findings (2025)
+  url: pad
+
+- title: "Length-Induced Embedding Collapse in PLM-based Models"
+  authors: Yuqi Zhou, Sunhao Dai, Zhanshuo Cao, Xiao Zhang, Jun Xu
+  book: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+  url: pad
+
+- title: "Towards Effective and Efficient Continual Pre-training of Large Language Models"
+  authors: Jie Chen, Zhipeng Chen, jiapeng wang, Kun Zhou, Yutao Zhu, Jinhao Jiang, Yingqian Min, Xin Zhao, Zhicheng Dou, Jiaxin Mao, Yankai Lin, Ruihua Song, Jun Xu, Xu Chen, Rui Yan, Zhewei Wei, Di Hu, Wenbing Huang, Ji-Rong Wen
+  book: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+  url: pad
+
+- title: "MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment"
+  authors: Weicong Qin, Yi Xu, Weijie Yu, Chenglei Shen, Ming He, Jianping Fan, Xiao Zhang, Jun Xu
+  book: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+  url: pad
+
+- title: "Trustworthy Process Rewarding for Retrieval-Augmented Reasoning"
+  authors: Zhongxiang Sun, Qipeng Wang, Weijie Yu, Xiaoxue Zang, Kai Zheng, Jun Xu, Xiao Zhang, Yang Song and Han Li
+  book: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)
+  url: pad
+
+- title: "Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop"
+  authors: Yuqi Zhou, Sunhao Dai, Liang Pang, Gang Wang, Zhenhua Dong, Jun Xu and Ji-Rong Wen
+  book: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)
+  url: pad
+
+- title: "Understanding Accuracy-Fairness Trade-offs in Re-ranking through Elasticity in Economics"
+  authors: Chen Xu, Jujia Zhao, Wenjie Wang, Liang Pang, Jun Xu, Tat-Seng Chua and Maarten de Rijke
+  book: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)
+  url: pad
+
+- title: "Mitigating Source Bias with LLM Alignment"
+  authors: Sunhao Dai, Yuqi Zhou, Liang Pang, Zhuoyang Li, Zhaocheng Du, Gang Wang and Jun Xu
+  book: International Conference on Learning Representations (ICLR 2025)
+  url: pad
+
+- title: "ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability"
+  authors: Zhongxiang Sun, Xiaoxue Zang, Kai Zheng, Jun Xu, Xiao Zhang, Weijie Yu, Yang Song, Han Li
+  book: International Conference on Learning Representations (ICLR 2025)
+  url: pad
+
+
+- title: "GenSearch+: Rebuilding User Feedback Ecosystem for Generative AI Search"
+  authors: Sunhao Dai, Wenjie Wang, Liang Pang, Jun Xu, See-Kiong Ng, Ji-Rong Wen and Tat-Seng Chua
+  book: Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025, perspectives)
+  url: pad
+
+- title: "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions"
+  authors: Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
+  book: International Conference on Learning Representations (ICLR 2025, Oral 1.8%)
+  url: pad
+
+- title: "Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation"
+  authors: Chen Xu, Yuxin Li, Wenjie Wang, Liang Pang, Jun Xu, Tat-Seng Chua
+  book: International Conference on Learning Representations (ICLR 2025)
+  url: pad
+
+- title: "Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents"
+  authors: Haoyu Wang, Sunhao Dai, Haiyuan Zhao, Liang Pang, Xiao Zhang, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen
+  book: International Conference on Learning Representations (ICLR 2025)
+  url: pad
+
+- title: "LargePiG for Hallucination-Free Query Generation: Your Large Language Model is Secretly a Pointer Generator"
+  authors: Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang,Jun Xu
+  book: The ACM Web Conference 2025 (WWW 2025), Sydney, NSW, Australia, pp. 4766–4779.
+  url: pad
+
+- title: "AdaO2B: Adaptive Online to Batch Conversion for Out-of-Distribution Generalization"
+  authors: Xiao Zhang, Sunhao Dai, Jun Xu, Yong Liu, Zhenhua Dong
+  book: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025), 39(21), pp. 22596-22604.
+  url: pad
+
+- title: "Trigger$^3$: Refining Query Correction via Adaptive Model Selector"
+  authors: Kepu Zhang, ZhongXiang Sun, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Jun Xu
+  book: The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025), 39(12), pp. 13260-13268.
+  url: pad
+
+- title: "Adapting Constrained Markov Decision Process for OCPC Bidding with Delayed Conversions"
+  authors: Leping Zhang, Xiao Zhang, Yichao Wang, Xuan Li, Zhenhua Dong, and Jun Xu
+  book: ACM Transactions on Information Systems (TOIS), Vol. 43, No. 2, Article 47
+  url: pad
+
+- title: "Tool Learning with Large Language Models: A Survey"
+  authors: Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-rong Wen
+  book: Frontiers of Computer Science (FCS), 2025, 19(8): 198343
+  url: pad
