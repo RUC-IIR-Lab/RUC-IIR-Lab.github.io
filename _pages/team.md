@@ -123,22 +123,6 @@ permalink: /team/
 
 
 
-## 毕业生
-<div class="row">
 
-<h4>博士生</h4>
-{% for member in site.data.alumni_phd %}
-{{ member.name }}
-{% endfor %}
-
-<!-- <div class="col-sm-4 clearfix"> -->
-<h4>硕士生</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-<!-- </div> -->
-
-
-</div>
 
 
