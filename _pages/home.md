@@ -27,6 +27,6 @@ permalink: /
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Tencent.png" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kuaishou.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BAAI.jpeg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ByteDance.png" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_bytedance.png" style="width: 50px">
 </figure>
 </div>
