@@ -1,29 +1,151 @@
-- title: "IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution History"
+---
+- title: 'No Stakeholder Left Behind: Regret Theory-Guided Re-ranking for Two-Sided
+    Fair Recommendation'
+  authors: Xiaopeng Ye, Chen Xu, Jun Xu, Xuyang Xie, Gang Wang, Zhenhua Dong
+  book: ACM Transactions on Information Systems (TOIS), Accepted
+  url:
+- title: Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in
+    Streaming Recommendations
+  authors: Chenglei Shen, Yi Zhan, Weijie Yu, Xiao Zhang, Jun Xu
+  book: ACM Transactions on Information Systems (TOIS, Accepted)
+  url:
+- title: 'Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential
+    Recommendation'
+  authors: jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Jian Wu,
+    Yuning Jiang
+  book: IEEE Transactions on Knowledge and Data Engineering (TKDE, Accepted)
+  url:
+- title: 'OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task
+    Recommendation'
+  authors: Jiakai Tang, Sunhao Dai, Kun Wang, Zhiluohan Guo, Yu Zhao, Cong Fu, Kangle
+    Wu, Yabo Ni, Anxiang Zeng, Xu Chen, Jun Xu
+  book: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
+  url:
+- title: 'When Personalization Misleads: Understanding and Mitigating Hallucinations
+    in Personalized LLMs'
+  authors: Zhongxiang Sun, Yi Zhan, chenglei shen, Weijie Yu, Xiao Zhang, Ming He,
+    Jun Xu
+  book: The 64th Annual Meeting of the Association for Computational Linguistics (ACL
+    2026)
+  url:
+- title: 'Towards Understanding Continual Factual Knowledge Acquisition of Language
+    Models: From Theory to Algorithm'
+  authors: Haoyu Wang, yifan shang, Zhongxiang Sun, Weijie Yu, Xiao Zhang, Jun Xu
+  book: The 43rd International Conference on Machine Learning (ICML 2026)
+  url:
+- title: 'OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade
+    Ranking System'
+  authors: Sunhao Dai, Jiakai Tang, Jiahua Wu, Kun Wang, Yuxuan Zhu, Bingjun Chen,
+    Bangyang Hong, Yu Zhao, Cong Fu, Kangle Wu, Yabo Ni, Anxiang Zeng, Wenjie Wang,
+    Xu Chen, Jun Xu, See-Kiong Ng
+  book: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Applied
+    Data Science Track(KDD 2026 ADS track)
+  url:
+- title: Discovering and Alleviating Data Leakage in Staytime Prediction for Live
+    Streaming Recommendation
+  authors: Weihao Liu, Xiaopeng Ye, Chen Zhang, Haiyuan Zhao, Xiaoyan Zhao, Xiao Zhang,
+    Jun Xu
+  book: The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
+  url:
+- title: 'MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite
+    Matching'
+  authors: Changle Qu, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
+  book: The 64th Annual Meeting of the Association for Computational Linguistics (ACL
+    2026)
+  url:
+- title: 'KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation'
+  authors: Changle Qu, Sunhao Dai, Ke Guo, Xiao Zhang, Liqin Zhao, Shijun Wang, Yannan
+    Niu, Lantao Hu, Han Li, Jun Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026, resource)
+  url:
+- title: 'QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry
+    Errors'
+  authors: Kepu Zhang, Zhongxiang Sun, Weijie Yu, Xiaoxue Zang, Kai Zheng, Yang Song,
+    Han Li and Jun Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026, resource)
+  url:
+- title: 'GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start
+    Items'
+  authors: Chenglei Shen, Teng Shi, Weijie Yu, Xiao Zhang, Jun Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: 'Disentangling from Collaborative and Semantic Views: Graph Collaborative
+    Filtering for Q&A Recommendation'
+  authors: Changshuo Zhang, Teng Shi, Xiao Zhang, Yanping Zheng, Ruobing Xie, Qi Liu,
+    Jun Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: 'Large-Scale Online Learning for Generative List Recommendation in E-commerce:
+    An Environment Policy Optimization Approach'
+  authors: Yuan Wang, Zhiyu Li, Ang Gao, Changshuo Zhang, Xiao Zhang, Jun Xu, Quan
+    Lin
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: Mining Informative Interests via Latent Cross Reasoning for Search Enhanced
+    Recommendation
+  authors: Teng Shi, Weicong Qin, Weijie Yu, Xiao Zhang, Ming He, Jianping Fan, Jun
+    Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: 'The Attention Market: Interpreting Online Fair Re-ranking as Manifold Optimization
+    under Walrasian Equilibrium'
+  authors: Chen Xu, Wei Chu, Wenyu Hu, Fengran Mo, Jun Xu, Maarten de Rijke
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: Learning to Retrieve from Agent Trajectories
+  authors: Yuqi Zhou, Sunhao Dai, Changle Qu, Liang Pang, Jun Xu, Ji-Rong Wen
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive
+    Neuroscience
+  authors: Zhongxiang Sun, Qipeng Wang, Weijie Yu, Jingxuan Yang, Haolang Lu, Jun
+    Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: 'DLLM-Searcher: Adapting Diffusion Language Model for Efficient Search Agents'
+  authors: Jiahao Zhao, Shaoxuan Xu, Zhongxiang Sun, Fengqi Zhu, Jingyang Ou, Yuling
+    Shi, Chongxuan Li, Xiao Zhang, Jun Xu
+  book: The 49th International ACM SIGIR Conference on Research and Development in
+    Information Retrieval (SIGIR 2026)
+  url:
+- title: 'IBCB: Efficient Inverse Batched Contextual Bandit for Behavioral Evolution
+    History'
   authors: Yi Xu, Weiran Shen, Jun Xu, Xiao Zhang, Ji-Rong Wen
   book: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (Accepted)
-  url: pad
-
-- title: "Unveiling and Simulating Short-Video Addiction Behaviors via Economic Addiction Theory"
+  url:
+- title: Unveiling and Simulating Short-Video Addiction Behaviors via Economic Addiction
+    Theory
   authors: Chen Xu, Zhipeng Yi, Ruizi Wang, Wenjie Wang, Jun Xu and Maarten de Rijke
-  book: The Web Conference (WWW 2026)
-  url: pad
-
-- title: "Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation"
-  authors: Ke Guo, Changle Qu, Xiao Zhang, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu
-  book: The Web Conference (WWW 2026)
-  url: pad
-
-- title: "Mechanistic Detection and Mitigation of Hallucination in Large Reasoning Models"
+  book: The Web Conference （WWW 2026)
+  url:
+- title: 'Room matters: Dynamic room-level collaboration information modeling for
+    live streaming recommendation'
+  authors: Ke Guo, Changle Qu, Xiao Zhang, Liqin Zhao, Shijun Wang, Yanan Niu and
+    Jun Xu
+  book: The Web Conference （WWW 2026)
+  url:
+- title: Mechanistic Detection and Mitigation of Hallucination in Large Reasoning
+    Models
   authors: Zhongxiang Sun, Qipeng Wang, Haoyu Wang, Xiao Zhang, Jun Xu
   book: International Conference on Learning Representations (ICLR 2026)
-  url: pad
-
-- title: "StyliTruth: Unlocking stylized yet truthful LLM generation via disentangled steering"
+  url:
+- title: 'StyliTruth : Unlocking stylized yet truthful LLM generation via disentangled
+    steering'
   authors: Chenglei Shen, Zhongxiang Sun, Teng Shi, Xiao Zhang, Jun Xu
   book: International Conference on Learning Representations (ICLR 2026)
-  url: pad
-
-- title: "Counteracting the Delayed Conversions in OCPC with Survival Analysis"
-  authors: Leping Zhang, Chenxuan He, Xiao Zhang, Yichao Wang, Tengxiang Zhang, Zhenhua Dong and Jun Xu
-  book: The 19th ACM International Conference on Web Search and Data Mining (WSDM 2026)
-  url: pad
+  url:
+- title: Counteracting the Delayed Conversions in OCPC with Survival Analysis
+  authors: Leping Zhang, Chenxuan He, Xiao Zhang, Yichao Wang, Tengxiang Zhang, Zhenhua
+    Dong and Jun Xu
+  book: The 19th ACM International Conference on Web Search and Data Mining (WSDM
+    2026)
+  url:

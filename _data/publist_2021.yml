@@ -1,28 +1,29 @@
-
-- title: "Regret Bounds for Online Kernel Selection in Continuous Kernel Space"
-  authors:
-    Xiao Zhang, Shizhong Liao, Jun Xu, Ji-Rong Wen
-  book: AAAI 2021
-  url: https://ojs.aaai.org/index.php/AAAI/article/view/17305/17112
-
-- title: "Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback"
-  authors:
-    Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen
-  book: SIGIR 2021
-  url: https://gsai.ruc.edu.cn/uploads/20210728/258dff20dc157be8fd2a68ef6f2c6f01.pdf
-
-- title: "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation"
-  authors:
-    Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen
-  book: WSDM 2021
-  url: https://gsai.ruc.edu.cn/uploads/20210701/c0180749d1e7c77cf5c3b3c6c0fd011f.pdf
-
-- title: "A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing in Chinese Conversational Speech"
-  authors: Jingxuan Yang, Kerui Xu, Jun Xu, Si Li, Sheng Gao, Jun Guo, Nianwen Xue, Ji-Rong Wen
-  book: ACL 2021
-  url: https://gsai.ruc.edu.cn/uploads/20210701/2ef5dd7332e57849c89fc2addc4e260a.pdf
-
-- title: "RLPS: A reinforcement learning–based framework for personalized search"
+---
+- title: Adapting User Preference to Online Feedback in Multi-round Conversational
+    Recommendation
+  authors: Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen
+  book: Proceedings of the 14th ACM International Conference on Web Search and Data
+    Mining, pages 364–372
+  url: https://dl.acm.org/doi/10.1145/3437963.3441791
+- title: Counterfactual Reward Modification for Streaming Recommendation with Delayed
+    Feedback
+  authors: Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen
+  book: In Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval (SIGIR ’21), July 11–15, 2021, Virtual
+    Event, Canada.
+  url:
+- title: 'RLPS: A Reinforcement Learning–Based Framework for Personalized Search'
   authors: Jing Yao, Zhicheng Dou, Jun Xu, Ji-Rong Wen
-  book: TOIS 2021
-  url: https://dl.acm.org/doi/10.1145/3446617
+  book: ACM Transactions on Information Systems (TOIS) 39 (3), 1-29
+  url:
+- title: Regret Bounds for Online Kernel Selection in Continuous Kernel Space
+  authors: Xiao Zhang, Shizhong Liao, Jun Xu, Ji-Rong Wen
+  book: Proceedings of the AAAI Conference on Artificial Intelligence 35 (12)
+  url:
+- title: A Joint Model for Dropped Pronoun Recovery and Conversational Discourse Parsing
+    in Chinese Conversational Speech
+  authors: Jingxuan Yang, Kerui Xu, Jun Xu, Si Li, Sheng Gao, Jun Guo, Nianwen Xue,
+    Ji-Rong Wen
+  book: Proceedings of the 59th Annual Meeting of the Association for Computational
+    Linguistics, ACL 2021
+  url:

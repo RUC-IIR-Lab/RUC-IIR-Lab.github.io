@@ -1,51 +1,49 @@
-- title: "Counteracting user attention bias in music streaming recommendation via reward modification"
-  authors: Xiao Zhang, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen
-  book: KDD 2022
-  url:  https://dl.acm.org/doi/pdf/10.1145/3534678.3539393
-
-
-- title: "Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale Extraction"
-  authors: Weijie Yu, Zhongxiang Sun, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen
-  book: SIGIR 2022 
-  url: https://dl.acm.org/doi/abs/10.1145/3477495.3531974
-
-- title: "A Model-Agnostic Causal Learning Framework for Recommendation using Search Data"
-  authors: Zihua Si, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
-  book: WWW 2022
-  url: https://arxiv.org/pdf/2202.04514.pdf
-
-- title: Distribution Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains
-  authors: Weijie Yu; Chen Xu; Jun Xu; Liang Pang; Ji-Rong Wen
-  book: TASLP vol.30
-  url: https://ieeexplore.ieee.org/abstract/document/9698977
-
-- title: Optimal Partial Transport Based Sentence Selection for Long-form Document Matching
-  authors: Weijie Yu, Liang Pang, Jun Xu, Bing Su, Zhenhua Dong, Ji-Rong Wen
-  book: COLING 2022
-  url: https://aclanthology.org/2022.coling-1.208.pdf
-
+---
+- title: Variance reduction for deep Q-Learning using stochastic recursive gradient
+  authors: Haonan Jia, Xiao Zhang, Jun Xu, Wei Zeng, Hao Jiang, Xiaohui Yan
+  book: Proceedings of the 29th International Conference on Neural Information Processing
+    (ICONIP 2022)
+  url: https://link.springer.com/chapter/10.1007/978-981-99-1639-9_53
+- title: Optimal Partial Transport Based Sentence Selection for Long-form Document
+    Matching
+  authors: Weijie Yu, Liang Pang, Jun Xu, Bing Su, Zhenhua Dong and Ji-Rong Wen
+  book: The 29th International Conference on Computational Linguistics (COLING ‘22)
+  url:
 - title: Semantic Sentence Matching via Interacting Syntax Graphs
-  authors: Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong Wen
-  book: COLING 2022
-  url: https://aclanthology.org/2022.coling-1.78.pdf
-
+  authors: Chen Xu, Jun Xu, Zhenhua Dong and Ji-Rong Wen
+  book: The 29th International Conference on Computational Linguistics (COLING ‘22)
+  url:
 - title: Dually Enhanced Propensity Score Estimation in Sequential Recommendation
-  authors: Chen Xu, Jun Xu, Xu Chen, Zhenghua Dong, Ji-Rong Wen
-  book: CIKM 2022
-  url: https://gsai.ruc.edu.cn/uploads/20220903/bee817cd0a82cc1b93a55317f7edf979.pdf
-
+  authors: Chen Xu, Jun Xu, Xu Chen, Zhenghua Dong, Ji-RongWen
+  book: Proceedings of the 31st ACM International Conference on Information and Knowledge
+    Management (CIKM ’22)
+  url: https://doi.org/10.1145/3511808.3557299
 - title: A Tag-Based Post-Hoc Framework for Explainable Conversational Recommendation
-  authors: Kerui Xu, Jun Xu, Sheng Gao, Si Li, Jun Guo, Ji-Rong Wen
-  book: ICTIR 2022
-  url: https://dl.acm.org/doi/abs/10.1145/3539813.354512
-
-- title: Separating Examination and Trust Bias from Click Predictions for Unbiased Relevance Ranking
-  authors: Haiyuan Zhao, Jun Xu, Xiao Zhang, Guohao Cai, Zhenghua Dong, Ji-rong Wen
-  book: WSDM 2023
-  url: 
-
-- title: Variance Reduction for Deep Q-Learning using Stochastic Recursive Gradient
-  authors: Haonan Jia, Xiao Zhang, Jun Xu, Wei Zeng, Hao Jiang,Xiaohui Yan
-  book: ICTIR 2022
-  url: https://dl.acm.org/doi/abs/10.1145/3539813.3545120
-
+  authors: Kerui Xu, Jun Xu, Sheng Gao, Si Li, Jun Guo, and Ji-Rong Wen
+  book: Proceedings of the 2022 ACM SIGIR International Conference on the Theory of
+    Information Retrieval (ICTIR ’22)
+  url: https://dl.acm.org/doi/10.1145/3539813.3545120
+- title: Explainable Legal Case Matching via Inverse Optimal Transport-based Rationale
+    Extraction
+  authors: Weijie Yu, Zhongxiang Sun, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu,
+    and Ji-RongWen
+  book: Proceedings of the 45th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR ’22)
+  url: https://dl.acm.org/doi/10.1145/3477495.3531974
+- title: Counteracting User Attention Bias in Music Streaming Recommendation via Reward
+    Modification
+  authors: Xiao Zhang, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen
+  book: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data
+    Mining (KDD ’22)
+  url: https://doi.org/10.1145/3534678.3539393
+- title: A Model-Agnostic Causal Learning Framework for Recommendation using Search
+    Data
+  authors: Zihua Si, Xueran Han, Xiao Zhang, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen
+  book: Proceedings of the ACM Web Conference 2022 (WWW ’22)
+  url: https://doi.org/10.1145/3485447.3511951
+- title: Distribution Distance Regularized Sequence Representation for Text Matching
+    in Asymmetrical Domains
+  authors: Weijie Yu , Chen Xu, Jun Xu , Liang Pang, and Ji-Rong Wen
+  book: IEEE/ACM TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING (TASLP), VOL.
+    30
+  url: https://ieeexplore.ieee.org/document/9698977?source=authoralert

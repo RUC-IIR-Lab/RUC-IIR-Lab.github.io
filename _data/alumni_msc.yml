@@ -1,38 +1,56 @@
+- name: 张昌硕
+  quxiang: 2026届，蚂蚁集团，头部计划
+
+- name: 徐熠
+  quxiang: 2026届，Tiktok，头部计划
+
+- name: 秦维聪
+  quxiang: 2026届，小红书，头部计划
+
+- name: 张珂镨
+  quxiang: 2026届，腾讯，头部计划
+
 - name: 思子华
-  quxiang: TikTok, special offer
+  quxiang: 2025届，TikTok，头部计划
 
 - name: 张蕾
-  quxiang: 腾讯
+  quxiang: 2025届，腾讯
 
 - name: 曹泽麟
-  quxiang: 新华社
+  quxiang: 2025届，新华社
 
 - name: 邵宁录
-  quxiang: 快手
+  quxiang: 2025届，快手
+
+- name: 林浩东
+  quxiang: 2024届，进出口银行
 
 - name: 薄琳
-  quxiang: 兵器工业部
+  quxiang: 2023届，兵器工业集团
 
 - name: 贾浩男
-  quxiang: 进出口银行
+  quxiang: 2023届，进出口银行
 
 - name: 陈思睿
-  quxiang: UIUC, 攻读博士
+  quxiang: 2023届，UIUC，读博
 
 - name: 鲁宇婧
-  quxiang: 百度
+  quxiang: 2022届，百度
 
 - name: 许珂瑞
   quxiang: 字节跳动
 
 - name: 冯悦
-  quxiang: University of Birmingham, 助理教授
+  quxiang: UCL读博，现就职于伯明翰大学
 
 - name: 侯建鹏
   quxiang: 谷歌
 
 - name: 郭天佑
-  quxiang: 阿里巴巴
+  quxiang: 英伟达
+
+- name: 何逸轩
+  quxiang: 百度
 
 - name: 李萍
   quxiang: 腾讯
@@ -42,7 +60,3 @@
 
 - name: 劳雅迪
   quxiang: Apple
-
-- name: 张登辉
-  quxiang: Rutgers University，攻读博士
-

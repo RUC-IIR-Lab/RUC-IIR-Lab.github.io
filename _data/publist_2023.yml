@@ -1,89 +1,103 @@
-- title: "Reward Imputation with Sketching for Contextual Batched Bandits"
-  authors:  Xiao Zhang, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen
-  book: NeurIPS 2023
+---
+- title: Reward Imputation with Sketching for Contextual Batched Bandits
+  authors: Xiao Zhang, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong
+    Wen
+  book: the 37th Annual Conference on Neural Information Processing Systems (NeurIPS
+    2023)
   url: https://dev.neurips.cc/virtual/2023/poster/72337
-
-- title: "Explainable Legal Case Matching via Graph Optimal Transport"
-  authors: Zhongxiang Sun, Weijie Yu, Zihua Si, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng Xu, Ji-Rong Wen
-  book: TKDE
-  url: https://ieeexplore.ieee.org/abstract/document/10285038/
-
-- title: "Reinforcement Re-ranking with 2D Grid-based Recommendation Panels"
-  authors: Sirui Chen, Xiao Zhang, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin, and Jun Xu
-  book: SIGIR-AP 23
-  url: https://dl.acm.org/doi/abs/10.1145/3624918.3625311
-
-- title: "Unbiased Top-$k$ Learning to Rank with Causal Likelihood Decomposition"
+- title: App搜索场景下的意图推荐方法研究
+  authors: 周雨琦，戴孙浩，张朝亮，王刚，户保田，徐君
+  book: 第二十九届全国信息检索学术会议 (CCIR2023)
+  url:
+- title: Reinforcement Re-ranking with 2D Grid-based Recommendation Panels
+  authors: Sirui Chen, Xiao Zhang, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin, and Jun
+    Xu
+  book: Annual International ACM SIGIR Conference on Research and Development in Information
+    Retrieval in the Asia Pacific Region (SIGIR-AP ’23)
+  url: https://dl.acm.org/doi/pdf/10.1145/3624918.3625311
+- title: Unbiased Top-$k$ Learning to Rank with Causal Likelihood Decomposition
   authors: Haiyuan Zhao, Jun Xu, Xiao Zhang, Guohao Cai, Zhenhua Dong, Ji-Rong Wen
-  book: SIGIR-AP 23
-  url: https://dl.acm.org/doi/abs/10.1145/3624918.3625340
-
-- title: "HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation"
+  book: In Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval in the Asia Pacific Region (SIGIR-AP ’23, Best Paper Award)
+  url: https://dl.acm.org/doi/pdf/10.1145/3624918.3625340
+- title: 'HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences
+    in Streaming Recommendation'
   authors: Chenglei Shen, Xiao Zhang, Wei Wei, Jun Xu
-  book: CIKM 2023 
+  book: Proceedings of the 32nd ACM International Conference on Information and Knowledge
+    Management (CIKM 2023)
   url: https://dl.acm.org/doi/10.1145/3583780.3614921
-
-- title: "KuaiSAR: A Unified Search And Recommendation Dataset"
-  authors: Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, Xiao Zhang, Jun Xu
-  book: CIKM 2023 
-  url: https://arxiv.org/abs/2306.07705
-
-- title: "Dually Enhanced Delayed Feedback Modeling for Streaming Conversion Rate Prediction"
+- title: 'KuaiSAR: A Unified Search And Recommendation Dataset'
+  authors: Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song,
+    Xiao Zhang, Jun Xu
+  book: CIKM 2023 Resource Paper
+  url: https://dl.acm.org/doi/10.1145/3583780.3615123
+- title: Dually Enhanced Delayed Feedback Modeling for Streaming Conversion Rate Prediction
   authors: Sunhao Dai, Yuqi Zhou, Jun Xu, Ji-Rong Wen
-  book: CIKM 2023 
+  book: Proceedings of the 32nd ACM International Conference on Information and Knowledge
+    Management (CIKM 2023)
   url: https://dl.acm.org/doi/10.1145/3583780.3614856
-
-- title: "Uncovering ChatGPT's Capabilities in Recommender Systems"
-  authors:  Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, Xiao Zhang, Jun Xu
-  book: RecSys 2023 
-  url: https://arxiv.org/abs/2305.02182
-
-- title: "Syntactic-Informed Graph Networks for Sentence Matching"
-  authors:  Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong, Wen
-  book: TOIS 
+- title: Uncovering ChatGPT's Capabilities in Recommender Systems
+  authors: Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang
+    Sun, Xiao Zhang and Jun Xu
+  book: RecSys 2023 Late Breaking Results (LBR) track
+  url: https://dl.acm.org/doi/10.1145/3604915.3610646
+- title: Syntactic-Informed Graph Networks for Sentence Matching
+  authors: Chen Xu, Jun Xu, Zhenhua Dong, Ji-Rong, Wen
+  book: ACM Transactions on Information Systems (TOIS), Vol. 42, No. 2, Article 38
   url: https://dl.acm.org/doi/10.1145/3609795
-
-- title: "Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation"
-  authors:  Haiyuan Zhao, Lei Zhang, Jun Xu, Guohao Cai, Zhenhua Dong and Ji-Rong Wen
-  book: RecSys 2023
+- title: Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation
+  authors: Haiyuan Zhao, Lei Zhang, Jun Xu, Guohao Cai, Zhenhua Dong and Ji-Rong Wen
+  book: Proceedings of the 17th ACM Conference on Recommender Systems (RecSys 2023)
   url: https://dl.acm.org/doi/10.1145/3604915.3608797
-
-- title: "Controllable Multi-Objective Re-ranking with Policy Hypernetworks"
-  authors:  Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, ChangShuo Zhang, Xiao Zhang, Lin Quan, Cheng Zhu, Jun Xu
-  book: KDD 2023 (ADS track)
+- title: Controllable Multi-Objective Re-ranking with Policy Hypernetworks
+  authors: Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, ChangShuo Zhang, Xiao Zhang,
+    Lin Quan, Cheng Zhu, Jun Xu
+  book: KDD 2023 Applied Data Science (ADS) track
   url: https://dl.acm.org/doi/10.1145/3580305.3599796
-
-- title: "Conditional Counterfactual Causal Effect for Individual Attribution"
-  authors: Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang Zhang, Jun Xu, Zhi Geng, Yangbo He
-  book: UAI 2023
+- title: Conditional Counterfactual Causal Effect for Individual Attribution
+  authors: Ruiqi Zhao, Lei Zhang, Shengyu Zhu, Zitong Lu, Zhenhua Dong, Chaoliang
+    Zhang, Jun Xu, Zhi Geng, Yangbo He
+  book: Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence
+    (UAI 2023, Poster Spotlight)
   url: https://proceedings.mlr.press/v216/zhao23a.html
-
-- title: "ACRank: 在神经排序模型中引入检索公理知识"
-  authors:  薄琳，庞亮，张朝亮，王钊伟，董振华，徐君，文继荣
+- title: 'ACRank: 在神经排序模型中引入检索公理知识'
+  authors: 薄琳，庞亮，张朝亮，王钊伟，董振华，徐君，文继荣
   book: 计算机学报
-  url: https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSJX20230424001
-
-- title: "When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation"
-  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen
-  book: SIGIR 2023
-  url: https://gsai.ruc.edu.cn/uploads/20230518/9d1f9b4bc1c31dad014b1e624fbdea05.pdf
-
-- title: "Law Article-Enhanced Legal Case Matching: a Causal Learning Approach"
+  url: https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&amp;dbname=CAPJLAST&amp;filename=JSJX20230424001
+- title: 'When Search Meets Recommendation: Learning Disentangled Search Representation
+    for Recommendation'
+  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Xiaoxue Zang, Yang Song,
+    Kun Gai and Ji-Rong Wen
+  book: Proceedings of the 46th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2023)
+  url:
+- title: 'Law Article-Enhanced Legal Case Matching: a Causal Learning Approach'
   authors: Zhongxiang Sun, Jun Xu, Xiao Zhang, Zhenhua Dong, Ji-Rong Wen
-  book: SIGIR 2023
-  url: https://gsai.ruc.edu.cn/uploads/20230518/fe4d045ed303409012e5fe3ee6c24e32.pdf
-
-- title: "U-SetRank：基于注意力机制修正的SetRank纠偏"
+  book: Proceedings of the 46th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2023)
+  url:
+- title: U-SetRank：基于注意力机制修正的SetRank纠偏
   authors: 张乐凭，徐君，庞亮，董振华，文继荣
   book: 计算机研究与发展
-  url:  
-
-- title: "Enhancing Recommendation with Search Data in a Causal Learning Manner"
-  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen
-  book: TOIS vol.41
-  url:  https://dl.acm.org/doi/abs/10.1145/3582425
-
-- title: "P-MMF: Provider Max-min Fairness Re-ranking in Recommender System"
-  authors: Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, Xiao Zhang, Gang Wang, Zhenghua Dong
-  book: WWW 2023 (Splotlight - Best Paper Nomination)
+  url:
+- title: Enhancing Recommendation with Search Data in a Causal Learning Manner
+  authors: Zihua Si, Zhongxiang Sun, Xiao Zhang, Jun Xu, Yang Song, Xiaoxue Zang,
+    Ji-Rong Wen
+  book: ACM Transactions on Information Systems (TOIS)，Vol. 41, No. 4, Article 111
+  url: https://dl.acm.org/doi/10.1145/3582425
+- title: 'P-MMF: Provider Max-min Fairness Re-ranking in Recommender System'
+  authors: Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, Xiao Zhang, Gang Wang, Zhenhua
+    Dong
+  book: International World Wide Web Conference (WWW 2023, Spotlight / Best Paper
+    Award Nomination)
   url: https://dl.acm.org/doi/10.1145/3543507.3583296
+- title: Separating Examination and Trust Bias from Click Predictions for Unbiased
+    Relevance Ranking
+  authors: Haiyuan Zhao, Jun Xu, Xiao Zhang, Guohao Cai, Zhenhua Dong, Ji-Rong Wen
+  book: Proceedings of the Sixteenth ACM International Conference on Web Search and
+    Data Mining (WSDM 2023)
+  url: https://dl.acm.org/doi/10.1145/3539597.3570393
+- title: 基于多任务学习的倾向性得分预测算法
+  authors: 曹泽麟，徐君，董振华，文继荣
+  book: '计算机研究与发展, 2023, 60(1): 85-94'
+  url: https://doi.org/10.7544/issn1000-1239.202110853

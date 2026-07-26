@@ -1,24 +1,40 @@
-- title: Wasserstein Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains
-  authors: Weijie Yu, Chen Xu, Jun Xu, Liang Pang, Xiaopeng Gao, Xiaozhao Wang, Ji-Rong Wen
-  book: EMNLP 2020 main conference
-  url: https://aclanthology.org/2020.emnlp-main.239.pdf
-
-- title: "Reinforcement Learning to Rank with Pairwise Policy Gradient"
-  authors: Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen
-  book: SIGIR 2020
-  url: https://dl.acm.org/doi/10.1145/3397271.3401148
-
-- title: "SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieval"
-  authors: Liang Pang, Jun Xu, Qingyao Ai, Yanyan Lan, Xueqi Cheng, Jirong Wen
-  book: SIGIR 2020
-  url: https://arxiv.org/abs/1912.05891
-
-- title: "Transformer-GCRF: Recovering Chinese Dropped Pronouns with General Conditional Random Fields"
-  authors: Jingxuan Yang, Kerui Xu, Jun Xu*, Si Li*, Sheng GAO, Jun Guo, Ji-Rong Wen, Nianwen Xue
-  book: EMNLP 2020
-  url: https://arxiv.org/abs/2010.03224
-
-- title: "RLPer: A Reinforcement Learning Model for Personalized Search"
-  authors: Jing Yao, Zhicheng Dou, Jun Xu, Ji-Rong Wen
-  book: WWW 2020
-  url: https://dl.acm.org/doi/abs/10.1145/3366423.3380294
+---
+- title: 'RLPer: A Reinforcement Learning Model for Personalized Search'
+  authors: Yao, Jing; Dou, Zhicheng; Xu, Jun; Wen, Ji-Rong
+  book: 29th International World Wide Web Conference, WWW 2020, Taipei, Taiwan, 2020-4-20
+    - 2020-4-24
+  url:
+- title: 'Transformer-GCRF: Recovering Chinese Dropped Pronouns with General Conditional
+    Random Fields'
+  authors: Jingxuan Yang; Kerui Xu; Jun Xu; Si Li; Sheng GAO; Jun Guo; Ji-Rong Wen;
+    Nianwen Xue
+  book: 'Findings of ACL: EMNLP 2020, Online, 2020-11-16'
+  url: https://www.aclweb.org/anthology/2020.findings-emnlp.13.pdf
+- title: Wasserstein Distance Regularized Sequence Representation for Text Matching
+    in Asymmetrical Domains
+  authors: Yu, Weijie; Xu, Chen; Xu, Jun; Pang, Liang; Gao, Xiaopeng; Wang, Xiaozhao;
+    Wen, Ji-Rong
+  book: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+    Processing (EMNLP), Online, 2020-11-16
+  url: https://www.aclweb.org/anthology/2020.emnlp-main.239.pdf
+- title: 'SetRank: Learning a Permutation-Invariant Ranking Model for Information
+    Retrieval'
+  authors: Pang, Liang; Xu, Jun; Ai, Qingyao; Lan, Yanyan; Cheng, Xueqi; Wen, Jirong
+  book: Proceedings of the 43rd Annual International ACM SIGIR Conference on Research
+    and Development in Information Retrieval, SIGIR 2020, Virtual, Online, China,
+    2020-7-25-2020-7-30
+  url: https://dl.acm.org/doi/10.1145/3397271.3401104
+- title: 模仿排序学习模型
+  authors: 曾玮; 俞蔚捷; 徐君; 兰艳艳; 程学旗
+  book: '中文信息学报, 2020, 34(01): 97-105'
+  url:
+- title: Deep Learning for Matching in Search and Recommendation
+  authors: Xu, Jun; He, Xiangnan; Li, Hang
+  book: 'Foundations and Trends in Information Retrieval, 2020, 14(2-3): 102-288'
+  url: https://www.nowpublishers.com/article/Details/INR-076
+- title: Reinforcement Learning to Rank with Pairwise Policy Gradient
+  authors: Xu, Jun; Wei, Zeng; Xia, Long; Lan, Yanyan; Yin, Dawei; Cheng, Xueqi; Wen,
+    Ji-Rong
+  book: Proceedings of the 43rd Annual International ACM SIGIR Conference on Research
+    and Development in Information Retrieval, SIGIR 2020, Virtual, Online, China
+  url: https://dl.acm.org/doi/abs/10.1145/3397271.3401148

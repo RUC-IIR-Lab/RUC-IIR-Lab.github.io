@@ -18,6 +18,9 @@ include:
   - .htaccess
   - _pages
 
+exclude:
+  - vendor
+
 sass:
   sass_dir: _sass
 
@@ -41,4 +44,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-

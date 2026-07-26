@@ -1,11 +1,17 @@
-- name: 赵海源 
-  quxiang: TikTok, special offer
+- name: 徐晨
+  quxiang: 2026届，CMU，博士后
+
+- name: 戴孙浩
+  quxiang: 2026届，蚂蚁集团，头部计划
+
+- name: 赵海源
+  quxiang: 2025届，TikTok，头部计划
 
 - name: 俞蔚捷
-  quxiang: 对外经贸大学
+  quxiang: 2023届，对外经济贸易大学，助理教授
 
 - name: 杨婧璇
-  quxiang: 腾讯, 腾讯大咖
+  quxiang: 腾讯，腾讯大咖
 
 - name: 曾玮
   quxiang: 百度
@@ -14,4 +20,4 @@
   quxiang: 百度
 
 - name: 孙飞
-  quxiang: 阿里巴巴, 阿里星
+  quxiang: 阿里巴巴

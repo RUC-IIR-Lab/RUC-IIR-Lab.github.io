@@ -65,6 +65,7 @@ email: {{ member.email }}<br>
 </div>
 {% endif %}
 {% endfor %}
+
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
@@ -98,3 +99,19 @@ email: {{ member.email }}<br>
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## 毕业去向
+
+指导（包括联合指导）毕业的学生及去向：
+
+### 毕业博士
+
+{% for member in site.data.alumni_phd %}
+* {{ member.name }}（{{ member.quxiang }}）
+{% endfor %}
+
+### 毕业硕士
+
+{% for member in site.data.alumni_msc %}
+* {{ member.name }}（{{ member.quxiang }}）
+{% endfor %}

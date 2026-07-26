@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-下面分别展示了已经发表的[专著](#专著)、[论文](#论文列表)和[学术报告](#学术报告)。
+下面分别展示了已经发表的[专著](#专著)、[论文](#论文)和[学术报告](#学术报告)。
 
 <!-- # Publications -->
 # 教科书
@@ -37,8 +37,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2026 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.{% if publi.url != 'pad' %} [<a href="{{ publi.url }}">PDF</a>] {% endif %} {% if publi.url == 'pad' %}[Just Accepted] {% endif %}
-  
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -46,8 +49,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2025 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.{% if publi.url != 'pad' %} [<a href="{{ publi.url }}">PDF</a>] {% endif %} {% if publi.url == 'pad' %}[Just Accepted] {% endif %}
-  
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -55,8 +61,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2024 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.{% if publi.url != 'pad' %} [<a href="{{ publi.url }}">PDF</a>] {% endif %} {% if publi.url == 'pad' %}[Just Accepted] {% endif %}
-  
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -64,8 +73,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2023 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.{% if publi.url != 'pad' %} [<a href="{{ publi.url }}">PDF</a>] {% endif %} {% if publi.url == 'pad' %}[Just Accepted] {% endif %}
-  
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -73,8 +85,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2022 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
-  [<a href="{{ publi.url }}">PDF</a>]
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -82,8 +97,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2021 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
-  [<a href="{{ publi.url }}">PDF</a>]
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -91,8 +109,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2020 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
-  [<a href="{{ publi.url }}">PDF</a>]
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 
@@ -100,8 +121,11 @@ Jun Xu, Xiangnan He and Hang Li. "**Deep Learning for Matching in Search and Rec
 
 {% for publi in site.data.publist_2019 %}
 
-  {{ publi.authors }}. {{ publi.title }}. <em>{{ publi.book }}</em>.
-  [<a href="{{ publi.url }}">PDF</a>]
+<div style="margin-bottom: 18px;">
+<strong>{{ publi.title }}</strong><br>
+{{ publi.authors }}<br>
+<em>{{ publi.book }}</em>{% if publi.url %} · <a href="{{ publi.url }}" target="_blank" rel="noopener">论文链接</a>{% endif %}
+</div>
 
 {% endfor %}
 

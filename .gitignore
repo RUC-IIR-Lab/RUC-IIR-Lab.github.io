@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .DS_Store
+vendor/bundle
+vendor/bundler
+vendor/apt-root

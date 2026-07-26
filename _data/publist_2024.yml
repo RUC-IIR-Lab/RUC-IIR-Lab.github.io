@@ -1,92 +1,174 @@
-- title: "Neural Retrievers are Biased Towards LLM-Generated Content"
-  authors: Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
-  book: KDD (2024)
-  url: pad
-
-- title: "Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time"
+---
+- title: Generative Retrieval with Semantic Tree-Structured Identifiers and Contrastive
+    Learning
+  authors: Zihua Si, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai
+    Zheng, Yang Song, Xiao Zhang, Jun Xu, Kun Gai
+  book: Proceedings of the 2024 Annual International ACM SIGIR Conference on Research
+    and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP
+    2024, Best Paper Award)
+  url: https://dl.acm.org/doi/10.1145/3673791.3698408
+- title: A Study of Implicit Ranking Unfairness in Large Language Models
+  authors: Chen Xu, Wenjie Wang, Yuxin Li, Liang Pang, Jun Xu, Tat-Seng Chua
+  book: 'Findings of the Association for Computational Linguistics: EMNLP 2024, pages
+    7957–7970, Miami, Florida, USA. Association for Computational Linguistics.'
+  url: https://aclanthology.org/2024.findings-emnlp.467/
+- title: 'LTP-MMF: Towards Long-term Provider Max-min Fairness Under Recommendation
+    Feedback Loops'
+  authors: Chen Xu, Xiaopeng Ye, Jun Xu, Xiao Zhang, Weiran Shen, and Ji-Rong Wen
+  book: ACM Transactions on Information Systems (TOIS), Vol. 43, No. 1, Article 11,
+    29 pages.
+  url: https://dl.acm.org/doi/abs/10.1145/3695867
+- title: 'Do Not Wait: Learning Re-Ranking Model Without User Feedback At Serving
+    Time in E-Commerce'
+  authors: Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, Xiao Zhang, Jun Xu and
+    Quan Lin
+  book: The 18th ACM Conference on Recommender Systems (RecSys 2024)
+  url: https://dl.acm.org/doi/10.1145/3640457.3688165
+- title: 'SAQRec: Aligning Recommender Systems to User Satisfaction via Questionnaire
+    Feedback'
+  authors: Kepu Zhang, Teng Shi, Sunhao Dai, Xiao Zhang, Yinfeng Li, Jing Lu, Xiaoxue
+    Zang, Yang Song and Jun Xu
+  book: Proceedings of the 33rd ACM International Conference on Information and Knowledge
+    Management (CIKM 2024)
+  url: https://dl.acm.org/doi/10.1145/3627673.3679643
+- title: Large Language Models Enhanced Collaborative Filtering
+  authors: Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, Xiao Zhang
+    and Jun Xu
+  book: Proceedings of the 33rd ACM International Conference on Information and Knowledge
+    Management (CIKM 2024)
+  url: https://dl.acm.org/doi/10.1145/3627673.3679558
+- title: Towards Completeness-Oriented Tool Retrieval for Large Language Models
+  authors: Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei
+    Yin, Jun Xu and Ji-Rong Wen
+  book: Proceedings of the 33rd ACM International Conference on Information and Knowledge
+    Management (CIKM 2024)
+  url: https://dl.acm.org/doi/10.1145/3627673.3679847
+- title: 'Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired
+    Re-ranking Approach'
+  authors: Xiaopeng Ye, Chen Xu, Jun Xu, Xuyang Xie, Gang Wang and Zhenhua Dong
+  book: Proceedings of the 33rd ACM International Conference on Information and Knowledge
+    Management (CIKM 2024)
+  url: https://dl.acm.org/doi/10.1145/3627673.3679590
+- title: Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair
+    Recommendation
+  authors: Xiao Zhang, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong Wen
+  book: IEEE Transactions on Knowledge and Data Engineering (TKDE), VOL. 36, NO. 12,
+    DECEMBER 2024
+  url: https://ieeexplore.ieee.org/document/10598228
+- title: 'Bias and Unfairness in Information Retrieval Systems: New Challenges in
+    the LLM Era'
+  authors: Sunhao Dai, Chen Xu, Shicheng Xu, Liang Pang, Zhenhua Dong, Jun Xu
+  book: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD
+    2024 Tutorial)
+  url: https://dl.acm.org/doi/10.1145/3637528.3671458
+- title: Neural Retrievers are Biased Towards LLM-Generated Content
+  authors: Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, Xiao
+    Zhang, Gang Wang, Jun Xu
+  book: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD
+    2024)
+  url: https://dl.acm.org/doi/10.1145/3637528.3671882
+- title: Counteracting Duration Bias in Video Recommendation via Counterfactual Watch
+    Time
   authors: Haiyuan Zhao, Guohao Cai, Jieming Zhu, Zhenhua Dong, Jun Xu, Ji-Rong Wen
-  book: KDD (2024)
-  url: pad
-
-- title: "Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method"
-  authors:  Chen Yang, Sunhao Dai, Yupeng Hou, Xin Zhao, Jun Xu, SONG Yang, Hengshu Zhu
-  book: KDD (2024)
-  url: pad
-
-- title: "Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning"
-  authors: Jiakai Tang, Sunhao Dai, Zexu Sun, Xu Chen, Jun Xu, Wenhui Yu, Lantao Hu, Peng Jiang, Han Li
-  book: KDD (2024)
-  url: pad
-
-- title: "Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated Documents Integration"
-  authors: Sunhao Dai, Weihao Liu, Yuqi Zhou, Liang Pang, Rongju Ruan, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen
+  book: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD
+    2024)
+  url: https://dl.acm.org/doi/10.1145/3637528.3671817
+- title: 'Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method'
+  authors: Chen Yang, Sunhao Dai, Yupeng Hou, Xin Zhao, Jun Xu, SONG Yang, Hengshu
+    Zhu
+  book: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD
+    2024)
+  url: https://dl.acm.org/doi/10.1145/3637528.3671734
+- title: Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive
+    Learning
+  authors: Jiakai Tang, Sunhao Dai, Zexu Sun, Xu Chen, Jun Xu, Wenhui Yu, Lantao Hu,
+    Peng Jiang, Han Li
+  book: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD
+    2024)
+  url: https://dl.acm.org/doi/10.1145/3637528.3671661
+- title: 'Cocktail: A Comprehensive Information Retrieval Benchmark with LLM-Generated
+    Documents Integration'
+  authors: Sunhao Dai, Weihao Liu, Yuqi Zhou, Liang Pang, Rongju Ruan, Gang Wang,
+    Zhenhua Dong, Jun Xu, Ji-Rong Wen
   book: ACL Findings (2024)
-  url: pad
-
-- title: "Effective In-Context Example Selection through Data Compression"
+  url: https://aclanthology.org/2024.findings-acl.421/
+- title: Effective In-Context Example Selection through Data Compression
   authors: ZhongXiang Sun, Kepu Zhang, Haoyu Wang, Xiao Zhang, Jun Xu
-  book:  ACL Findings (2024)
-  url: pad
-
-- title: "Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach"
-  authors: Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen and Jun Xu
-  book: SIGIR 2024
-  url: pad
-
-- title: "ReCODE: Modeling Repeat Consumption with Neural ODE"
-  authors: Sunhao Dai, Changle Qu, Sirui Chen, Xiao Zhang and Jun Xu
-  book: SIGIR 2024
-  url: pad
-
-- title: "To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process"
-  authors: Zhongxiang Sun, Zihua Si, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu
-  book: SIGIR 2024
-  url: pad
-
-
-- title: "A Taxation Perspective for Fair Re-ranking"
+  book: ACL Findings (2024)
+  url: https://aclanthology.org/2024.findings-acl.50/
+- title: 'UniSAR: Modeling User Transition Behaviors between Search and Recommendation'
+  authors: Teng Shi, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei
+    Leng, Yanan Niu and Yang Song
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024)
+  url: https://dl.acm.org/doi/10.1145/3626772.3657811
+- title: A Taxation Perspective for Fair Re-ranking
   authors: Chen Xu, Xiaopeng Ye, Wenjie Wang, Liang Pang, Jun Xu and Tat-Seng Chua
-  book: SIGIR 2024
-  url: pad
-
-
-- title: "UniSAR: Modeling User Transition Behaviors between Search and Recommendation"
-  authors: Teng Shi, Zihua Si, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song
-  book: SIGIR 2024
-  url: pad
-
-- title: "Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images"
-  authors: Shicheng Xu, Danyang Hou, Liang Pang, Jingcheng Deng, Jun Xu, Huawei Shen and Xueqi Cheng
-  book: SIGIR 2024
-  url: pad
-
-
-- title: "Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy"
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024, Best Paper Honorable Mention)
+  url: https://dl.acm.org/doi/10.1145/3626772.3657766
+- title: 'ReCODE: Modeling Repeat Consumption with Neural ODE'
+  authors: Sunhao Dai, Changle Qu, Sirui Chen, Xiao Zhang and Jun Xu
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024, Best Short Paper nominees)
+  url: https://dl.acm.org/doi/10.1145/3626772.3657936
+- title: 'Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated
+    Images'
+  authors: Shicheng Xu, Danyang Hou, Liang Pang, Jingcheng Deng, Jun Xu, Huawei Shen
+    and Xueqi Cheng
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024)
+  url: https://dl.acm.org/doi/abs/10.1145/3626772.3657750
+- title: 'To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes
+    Process'
+  authors: Zhongxiang Sun, Zihua Si, Xiao Zhang, Xiaoxue Zang, Yang Song, Hongteng
+    Xu and Jun Xu
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024)
+  url: https://dl.acm.org/doi/10.1145/3626772.3657732
+- title: 'Explicitly Integrating Judgment Prediction with Legal Document Retrieval:
+    A Law-Guided Generative Approach'
+  authors: Weicong Qin, Zelin Cao, Weijie Yu, Zihua Si, Sirui Chen and Jun Xu
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024)
+  url: https://dl.acm.org/doi/10.1145/3626772.3657717
+- title: Reinforcing Long-Term Performance in Recommender Systems with User-Oriented
+    Exploration Policy
   authors: Changshuo Zhang, Sirui Chen, Xiao Zhang, Sunhao Dai, Weijie Yu, Jun Xu
-  book: SIGIR 2024
-  url: pad
-
-- title: "Smooth Start: A Unified Approach for gradual transition from cold to old in Recommender Systems"
+  book: Proceedings of the 47th International ACM SIGIR Conference on Research and
+    Development in Information Retrieval (SIGIR 2024)
+  url: https://dl.acm.org/doi/10.1145/3626772.3657714
+- title: 'Smooth Start: A Unified Approach for gradual transition from cold to old
+    in Recommender Systems'
   authors: Jianwen Yang, Xiao Zhang, Jun Xu
-  book: ICASSP 2024
-  url: pad
-
-- title: "Logic Rules as Explanations for Legal Case Retrieval"
-  authors:  ZhongXiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang and Jun Xu
-  book: COLING 2024
-  url: pad
-
-- title: "List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation"
-  authors:  Shicheng Xu, Liang Pang, Jun Xu, Huawei Shen, Xueqi Cheng
-  book: WWW 2024
-  url: pad
-
-- title: "FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval"
-  authors:  Chen Xu, Jun Xu, Yiming Ding, Xiao Zhang, Qi Qi
-  book: WWW 2024
-  url: pad
-  
-- title: "Modeling User Attention in Music Recommendation"
-  authors:  Sunhao Dai, Ninglu Shao, Jieming Zhu, Xiao Zhang, Zhenhua Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen
-  book: ICDE 2024
-  url: pad
+  book: The 2024 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP 2024)
+  url:
+- title: Logic Rules as Explanations for Legal Case Retrieval
+  authors: ZhongXiang Sun, Kepu Zhang, Weijie Yu, Haoyu Wang and Jun Xu
+  book: In Proceedings of the 2024 Joint International Conference on Computational
+    Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 10747–10759,
+    Torino, Italia.
+  url: https://aclanthology.org/2024.lrec-main.939/
+- title: List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented
+    Generation
+  authors: Shicheng Xu, Liang Pang, Jun Xu, Huawei Shen, Xueqi Cheng
+  book: The ACM Web Conference 2024
+  url: https://dl.acm.org/doi/10.1145/3589334.3645336
+- title: 'FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation
+    Retrieval'
+  authors: Chen Xu, Jun Xu, Yiming Ding, Xiao Zhang, Qi Qi
+  book: The ACM Web Conference 2024
+  url: https://dl.acm.org/doi/10.1145/3589334.3645413
+- title: Modeling User Attention in Music Recommendation
+  authors: Sunhao Dai, Ninglu Shao, Jieming Zhu, Xiao Zhang, Zhenhua Dong, Jun Xu,
+    Quanyu Dai, Ji-Rong Wen
+  book: IEEE 40th International Conference on Data Engineering (ICDE 2024), Utrecht,
+    Netherlands, 2024, pp. 761-774
+  url: https://ieeexplore.ieee.org/document/10598060
+- title: Explainable Legal Case Matching via Graph Optimal Transport
+  authors: Zhongxiang Sun, Weijie Yu, Zihua Si, Jun Xu, Zhenhua Dong, Xu Chen, Hongteng
+    Xu, Ji-Rong Wen
+  book: IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 36, No. 6,
+    pp. 2461-2475
+  url: https://ieeexplore.ieee.org/document/10285038
